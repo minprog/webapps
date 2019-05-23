@@ -23,7 +23,7 @@ Paste that into the terminal to install [brew](https://brew.sh/)
 
 ## Step 3: Python and Sass
 
-Open the terminal app (press `⌘Space` and type terminal and press enter).
+Open the Terminal app (press `⌘Space` and type terminal and press enter).
 
     brew install python sass/sass/sass
 
