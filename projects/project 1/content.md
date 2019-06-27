@@ -43,6 +43,7 @@ but for this project, we'll use a database hosted by
    the credentials list), your username (the "User"), your password, and the
    name of the database, all of which you can find on the Heroku credentials
    page.
+   At Adminer you can use "SQL opdracht"/"SQL command" to try out a query.
 
 Alternatively, if you install
 [PostgreSQL](https://www.postgresql.org/download/) on your own computer, you
@@ -51,38 +52,48 @@ the link provided in the Heroku credentials list.
 
 ### Python and Flask
 
-1. First, make sure you install a copy of
-  [Python](https://www.python.org/downloads/). For this course, you should be using
-  Python version 3.6 or higher.
-2. You'll also need to install `pip`. If you downloaded Python from Python's
-  website, you likely already have `pip` installed (you can check by running
-  `pip` in a terminal window). If you don't have it installed, be sure to
-  [install it](https://pip.pypa.io/en/stable/installing/) before moving on!
+Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
 
 To try running your first Flask
 application:
 
-1. Download the `project1` distribution directory from [https://cdn.cs50.net/web/2018/spring/projects/1/project1.zip](https://cdn.cs50.net/web/2018/spring/projects/1/project1.zip) and unzip it.
-2. In a terminal window, navigate into your `project1` directory.
-3. Run `pip3 install -r requirements.txt` in your terminal window to make sure
-   that all of the necessary Python packages (Flask and SQLAlchemy, for
-   instance) are installed.
-4. Set the environment variable `FLASK_APP` to be `application.py`. On a Mac or
-   on Linux, the command to do this is `export FLASK_APP=application.py`. On
-   Windows, the command is instead `set FLASK_APP=application.py`. You may
-   optionally want to set the environment variable `FLASK_DEBUG` to `1`, which
-   will activate Flask's debugger and will automatically reload your web
-   application whenever you save a change to a file.
-5. Set the environment variable `DATABASE_URL` to be the URI of your database,
-   which you should be able to see from the credentials page on Heroku.
-6. Run `flask run` to start up your Flask application.
-7. If you navigate to the URL provided by `flask`, you should see the text
+Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
+
+`cd` to a directory where you want to put your project. 
+
+Run
+    
+    $ curl -O https://cdn.cs50.net/web/2018/spring/projects/1/project1.zip
+    $ unzip project1.zip
+    $ rm project1.zip
+    $ cd project1
+
+to download and extract the distribution code.
+
+Run
+
+    $ pip3 install -r requirements.txt
+
+to make sure all of the necessary Python packages (Flask and SQLAlchemy, for instance) are installed.
+
+Run
+
+    $ export FLASK_APP=application.py
+
+to the environment variable `FLASK_APP` to be `application.py`.
+
+
+You may optionally want to set the environment variable `FLASK_DEBUG` to `1`, which will activate Flask's debugger and will automatically reload your web application whenever you save a change to a file.
+
+Set the environment variable `DATABASE_URL` to be the URI of your database, which you should be able to see from the credentials page on Heroku.
+
+Run `flask run` to start up your Flask application.
+If you navigate to the URL provided by `flask`, you should see the text
    `"Project 1: TODO"`!
 
 ### Goodreads API
 
-Goodreads is a popular book review website, and we'll be using their API in this
-project to get access to their review data for individual books.
+Goodreads is a popular book review website, and we'll be using their API in this project to get access to their review data for individual books.
 
 1. Go to [https://www.goodreads.com/api](https://www.goodreads.com/api) and sign
    up for a Goodreads account if you don't already have one.
@@ -97,31 +108,30 @@ project to get access to their review data for individual books.
    documented [here](https://www.goodreads.com/api/index). In particular, Python
    code like the below
 
-```py
-import requests
-res = requests.get("https://www.goodreads.com/book/review_counts.json", params={"key": "KEY", "isbns": "9781632168146"})
-print(res.json())
-```
+        import requests
+        res = requests.get("https://www.goodreads.com/book/review_counts.json", params={"key": "KEY", "isbns": "9781632168146"})
+        print(res.json())
+
 
 where `KEY` is your API key, will give you the review and rating data for the
 book with the provided ISBN number. In particular, you might see something like
 this dictionary:
 
-```py
-{'books': [{
-                'id': 29207858,
-                'isbn': '1632168146',
-                'isbn13': '9781632168146',
-                'ratings_count': 0,
-                'reviews_count': 1,
-                'text_reviews_count': 0,
-                'work_ratings_count': 26,
-                'work_reviews_count': 113,
-                'work_text_reviews_count': 10,
-                'average_rating': '4.04'
-            }]
-}
-```
+
+    {'books': [{
+            'id': 29207858,
+            'isbn': '1632168146',
+            'isbn13': '9781632168146',
+            'ratings_count': 0,
+            'reviews_count': 1,
+            'text_reviews_count': 0,
+            'work_ratings_count': 26,
+            'work_reviews_count': 113,
+            'work_text_reviews_count': 10,
+            'average_rating': '4.04'
+        }]
+    }
+
 
 Note that `work_ratings_count` here is the number of ratings that this
 particular book has received, and `average_rating` is the book's average score
@@ -168,18 +178,16 @@ requirements:
 * **API Access**: If users make a GET request to your website's `/api/<isbn>`
   route, where `<isbn>` is an ISBN number, your website should return a JSON
   response containing the book's title, author, publication date, ISBN number,
-  review count, and average score. The resulting JSON should follow the format:
+  review count, and average score (on your site). The resulting JSON should follow the format:
 
-```python
-{
-    "title": "Memory",
-    "author": "Doug Lloyd",
-    "year": 2015,
-    "isbn": "1632168146",
-    "review_count": 28,
-    "average_score": 5.0
-}
-```
+        {
+            "title": "Memory",
+            "author": "Doug Lloyd",
+            "year": 2015,
+            "isbn": "1632168146",
+            "review_count": 28,
+            "average_score": 5.0
+        }
 
   If the requested ISBN number isn't in your
   database, your website should return a 404 error.
@@ -198,34 +206,40 @@ you meet the requirements laid out in the above specification!
 
 ## Hints
 
-* At minimum, you'll probably want at least one table to keep track of users,
+- [Adminer](https://adminer.cs50.net) can be user to try out SQL-statements.
+- At minimum, you'll probably want at least one table to keep track of users,
   one table to keep track of books, and one table to keep track of reviews. But
   you're not limited to just these tables, if you think others would be helpful!
-* In terms of how to "log a user in," recall that you can store information
+- In terms of how to "log a user in," recall that you can store information
   inside of the `session`, which can store different values for different users.
   In particular, if each user has an `id`, then you could store that `id` in the
   session (e.g., in `session["user_id"]`) to keep track of which user is
   currently logged in.
+- When adding any files like pictures or JavsScript, make sure you place them in
+     the `static` folder. ([documentation](http://flask.pocoo.org/docs/1.0/tutorial/static/))
+
 
 ## FAQs
 
-### For the API, do the JSON keys need to be in order?
+#### `INSERT`-statements do not work, but aren't giving an error?
+
+Make sure you commit you changes with `db.commit()`.
+
+#### For the API, do the JSON keys need to be in order?
 
 Any order is fine!
 
-### `AttributeError: 'NoneType' object has no attribute '_instantiate_plugins'`
+#### `AttributeError: 'NoneType' object has no attribute '_instantiate_plugins'`
 
 Make sure that you've set your `DATABASE_URL` environment variable before running
 `flask run`!
 
+
 ## How to Submit
 
-<!-- 1. Using [Git](https://git-scm.com/downloads), push your work to `https://github.com/submit50/USERNAME.git`, where `USERNAME` is your GitHub username, on a branch called `cs50/web/2018/x/projects/1` or, if you've installed [`submit50`](https://cs50.readthedocs.io/submit50/), execute
+1. Using Git, push your work to GitHub. Ask for help if needed!
 
-   ```
-   submit50 cs50/web/2018/x/projects/1
-   ```
+1. Submit the link to your project's GitHub repository below.
 
-   instead.
-1. [Record a 1- to 5-minute screencast](https://www.howtogeek.com/205742/how-to-record-your-windows-mac-linux-android-or-ios-screen/) in which you demonstrate your app's functionality and/or walk viewers through your code. [Upload that video to YouTube](https://www.youtube.com/upload) (as unlisted or public, but not private) or somewhere else.
-1. [Submit this form](https://forms.cs50.io/35643afd-5a3b-4482-bcec-ddbc61af297f). -->
+2. On (or before) the date of the deadline, show your working website to one of 
+    the staff.

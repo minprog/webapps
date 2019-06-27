@@ -7,9 +7,11 @@ To develop web apps you need some tools on you laptop. This guide helps you with
 
 Open the Terminal app (press `⌘Space`, type terminal and press enter).
 
+Run
+
     xcode-select --install
 
-Paste that into the terminal, and click "Install".
+and click "Install".
 
 ## Step 2: Brew
 
@@ -17,17 +19,21 @@ Installing programs can be done via a package manage. macOS does not come with o
 
 Open the terminal app (press `⌘Space` and type terminal and press enter).
 
+Run
+
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-Paste that into the terminal to install [brew](https://brew.sh/)
+to install [brew](https://brew.sh/)
 
 ## Step 3: Python and Sass
 
 Open the Terminal app (press `⌘Space` and type terminal and press enter).
 
+Run
+
     brew install python sass/sass/sass
 
-Paste that into the terminal, [Python 3.7](https://python.org) and [Sass](https://sass-lang.com/) will install.
+to install [Python 3.7](https://python.org) and [Sass](https://sass-lang.com/).
 
 ## Step 4: A Text-editor
 

@@ -2,7 +2,7 @@
 
 ## Objectives
 
-* Learn to use JavaScript to run code server-side.
+* Learn to use JavaScript to run code client-side.
 * Become more comfortable with building web user interfaces.
 * Gain experience with Socket.IO to communicate between clients and servers.
 
@@ -27,25 +27,37 @@ We recommend that you try to meet the following milestones:
 
 ### Python and Flask
 
-As with Project 1, make sure  that you have  a copy of [Python
-3.6](https://www.python.org/downloads/) or higher installed on your machine.
-You'll also need to install `pip`. If you downloaded Python from Python's
-website, you likely already have `pip` installed (you can check by running
-`pip` in a terminal window). If you don't have it installed, be sure to
-[install it](https://pip.pypa.io/en/stable/installing/) before moving on!
+Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
 
 To run this Flask application:
 
-1. Download the `project2` distribution code from https://cdn.cs50.net/web/2018/spring/projects/2/project2.zip and unzip it.
-2. In a terminal window, navigate into your `project2` directory.
-3. Run `pip3 install -r requirements.txt` in your terminal window to make sure
-   that all of the necessary Python packages (Flask and Flask-SocketIO, for
-   instance) are installed.
-4. Set the environment variable `FLASK_APP` to be `application.py`. On a Mac or
-   on Linux, the command to do this is `export FLASK_APP=application.py`. On
-   Windows, the command is instead `set FLASK_APP=application.py`.
-5. Run `flask run` to start up your Flask application.
-6. If you navigate to the URL provided by `flask`, you should see the text
+Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
+
+`cd` to a directory where you want to put your project. 
+
+Run
+    
+    $ curl -O https://cdn.cs50.net/web/2018/spring/projects/2/project2.zip
+    $ unzip project2.zip
+    $ rm project2.zip
+    $ cd project2
+
+to download and extract the distribution code.
+
+Run
+
+    $ pip3 install -r requirements.txt
+
+to make sure all of the necessary Python packages (Flask and SQLAlchemy, for instance) are installed.
+
+Run
+
+    $ export FLASK_APP=application.py
+
+to the environment variable `FLASK_APP` to be `application.py`.
+
+Run `flask run` to start up your Flask application.
+If you navigate to the URL provided by `flask`, you should see the text
    `"Project 2: TODO"`!
 
 ## Requirements
@@ -92,6 +104,7 @@ Beyond these requirements, the design, look, and feel of the website are up to
 you! You're also welcome to add additional features to your website, so long as
 you meet the requirements laid out in the above specification!
 
+
 ## Hints
 
 * You shouldn't need to use a database for this assignment. However, you should
@@ -101,15 +114,21 @@ you meet the requirements laid out in the above specification!
   storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
   will prove helpful for storing data client-side that will be saved across
   browser sessions.
+- When getting the error: `ValueError: signal only works in main thread` you did 
+  set `FLASK_DEBUG` to `1`, run `unset FLASK_DEBUG` to disable debug mode as is 
+  isn't compatible with Flask-SocketIO.
+
+
+## Testing
+
+When testing your webiste, try testing is with multiple different browsers.
+Also make sure you tested your webiste with different chanels open.
 
 ## How to Submit
 
-<!-- 1. Using [Git](https://git-scm.com/downloads), push your work to `https://github.com/submit50/USERNAME.git`, where `USERNAME` is your GitHub username, on a branch called `cs50/web/2018/x/projects/2` or, if you've installed [`submit50`](https://cs50.readthedocs.io/submit50/), execute
+1. Using Git, push your work to GitHub. Ask for help if needed!
 
-   ```
-   submit50 cs50/web/2018/x/projects/2
-   ```
+1. Submit the link to your project's GitHub repository below.
 
-   instead.
-1. [Record a 1- to 5-minute screencast](https://www.howtogeek.com/205742/how-to-record-your-windows-mac-linux-android-or-ios-screen/) in which you demonstrate your app's functionality and/or walk viewers through your code. [Upload that video to YouTube](https://www.youtube.com/upload) (as unlisted or public, but not private) or somewhere else.
-1. [Submit this form](https://forms.cs50.io/35643afd-5a3b-4482-bcec-ddbc61af297f). -->
+2. On (or before) the date of the deadline, show your working website to one of 
+    the staff.

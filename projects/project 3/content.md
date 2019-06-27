@@ -25,25 +25,34 @@ We recommend that you try to meet the following milestones in order:
 
 ### Python and Django
 
-As with Projects 1 and 2, make sure  that you have  a copy of [Python
-3.6](https://www.python.org/downloads/) or higher installed on your machine.
-You'll also need to install `pip`. If you downloaded Python from Python's
-website, you likely already have `pip` installed (you can check by running
-`pip` in a terminal window). If you don't have it installed, be sure to
-[install it](https://pip.pypa.io/en/stable/installing/) before moving on!
+Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
 
-To run this Django application:
+To try running your first Flask
+application:
 
-1. Download the `project3` distribution code from [https://cdn.cs50.net/web/2018/spring/projects/3/project3.zip](https://cdn.cs50.net/web/2018/spring/projects/3/project3.zip) and unzip it.
-2. In a terminal window, navigate into your `project3` directory. Note that this
-   is the directory for a Django project called `pizza`, inside of which is an
-   app already created for you called `orders`.
-3. Run `pip3 install -r requirements.txt` in your terminal window to make sure
-   that all of the necessary Python packages (Django, in this instance) are
-   installed.
-4. Run `python manage.py runserver` to start up your Django application.
-5. If you navigate to the URL provided by Django, you should see the text
+Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
+
+`cd` to a directory where you want to put your project. 
+
+Run
+    
+    $ curl -O https://cdn.cs50.net/web/2018/spring/projects/3/project3.zip
+    $ unzip project3.zip
+    $ rm project3.zip
+    $ cd project3
+
+to download and extract the distribution code.
+
+Run
+
+    $ pip3 install -r requirements.txt
+
+to make sure all of the necessary Python packages (Django) are installed.
+
+Run `python3 manage.py runserver` to start up your Flask application.
+If you navigate to the URL provided by `django`, you should see the text
    `"Project 3: TODO"`!
+
 
 ## Requirements
 
@@ -79,7 +88,7 @@ requirements:
 * **Personal Touch**: Add at least one additional feature of your choosing to
   the web application. Possibilities include: allowing site administrators to
   mark orders as complete and allowing users to see the status of their pending
-  or completed orders, integrating with the [Stripe](https://stripe.com/docs)
+  or completed orders, integrating with the [Mollie](https://github.com/mollie/mollie-api-python)
   API to allow users to actually use a credit card to make a purchase during
   checkout, or supporting sending users a confirmation email once their purchase
   is complete. If you need to use any credentials (like passwords or API
@@ -119,12 +128,9 @@ different types of toppings, or something else entirely!
 
 ## How to Submit
 
-<!-- 1. Using [Git](https://git-scm.com/downloads), push your work to `https://github.com/submit50/USERNAME.git`, where `USERNAME` is your GitHub username, on a branch called `cs50/web/2018/x/projects/3` or, if you've installed [`submit50`](https://cs50.readthedocs.io/submit50/), execute
+1. Using Git, push your work to GitHub. Ask for help if needed!
 
-   ```
-   submit50 cs50/web/2018/x/projects/3
-   ```
+1. Submit the link to your project's GitHub repository below.
 
-   instead.
-1. [Record a 1- to 5-minute screencast](https://www.howtogeek.com/205742/how-to-record-your-windows-mac-linux-android-or-ios-screen/) in which you demonstrate your app's functionality and/or walk viewers through your code. [Upload that video to YouTube](https://www.youtube.com/upload) (as unlisted or public, but not private) or somewhere else.
-1. [Submit this form](https://forms.cs50.io/35643afd-5a3b-4482-bcec-ddbc61af297f). -->
+2. On (or before) the date of the deadline, show your working website to one of 
+    the staff.

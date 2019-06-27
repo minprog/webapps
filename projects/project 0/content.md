@@ -1,7 +1,5 @@
 # Project 0: Homepage
 
-
-
 ## Objectives
 
 * Become more comfortable with HTML and CSS to design and style webpages.
@@ -11,9 +9,9 @@
 
 ### Your First Webpage
 
-Open "Git Bash" on windows or the "Terminal" on macOS.
+Open "Git Bash" on Windows or the "Terminal" on macOS.
 
-`cd` to a directory where you want to put your projects. 
+`cd` to a directory where you want to put your project. 
     
     $ curl -O https://cdn.cs50.net/web/2018/spring/projects/0/project0.zip
     $ unzip project0.zip
@@ -67,5 +65,14 @@ subject to the following requirements:
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
 
-Note that not all of the above requirements are covered in Lecture 0, some will
-be introduced in Lecture 1.
+Note that not all of the above requirements are covered in [Lecture 0](/lectures/lecture%200), some will
+be introduced in [Lecture 1](/lectures/lecture%201).
+
+## How to Submit
+
+1. Using Git, push your work to GitHub. Ask for help if needed!
+
+1. Submit the link to your project's GitHub repository below.
+
+2. On (or before) the date of the deadline, show your working website to one of 
+    the staff.

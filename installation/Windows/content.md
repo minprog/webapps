@@ -7,6 +7,7 @@ To develop web apps you need some tools on you laptop. This guide helps you with
 Head to [the git website](https://git-scm.com/downloads) and download git for windows.
 
 During the installation change the following options
+
 ![Choose "Use the Nano editor by default"](git_nano.png)
 
 ![Choose "Use Windows' default console window](git_terminal.png)
@@ -20,11 +21,12 @@ Download sass from [GitHub](https://github.com/sass/dart-sass/releases/), `dart-
 Extract the zip you've downloaded
 
 Click "Extract All"
+
 ![](sass_extract1.png)
 
 And extract it to `C:\`
-![](sass_extract2.png)
 
+![](sass_extract2.png)
 
 If you want to use Sass from the terminal you'll need to add it to you 'PATH'.
 
@@ -35,20 +37,30 @@ If you want to use Sass from the terminal you'll need to add it to you 'PATH'.
     and click "Properties".
 2. Click "Advanced system settings".
 3. Click "Environment Variables".
+
 ![](sass-path1.png)
+
 4. Under "System Variables", find the `PATH` variable, select it, and click "Edit".
+
 ![](sass-path2.png)
+
 5. Click "New" and "Browse..."
+
 ![](sass-path3.png)
+
 6. Navigate to your `C:\` drive and click "dart-sass"
+
 ![](sass-path4.png)
+
 7. Click (all the) "Ok"-buttons(s) to save the settings
 
 Open "Git Bash" from the Start menu.
-paste the following line into the terminal.
+
+Run
     
     echo 'alias sass=sass.bat' >> ~/.bash_profile; source ~/.bash_profile
 
+to make it easier to run `sass`
 Now you should be able to use sass, execute `sass --version` in your terminal to verify this.
 
 ## Step 3: Python3
