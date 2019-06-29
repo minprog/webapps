@@ -25,6 +25,13 @@ We recommend that you try to meet the following milestones:
 
 ## Getting Started
 
+### GitHub Classroom
+
+1. [Click here](https://classroom.github.com/a/oQJcETPM) to go to the GitHub Classroom page for starting the assignment.
+2. Click the green “Accept this assignment” button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
+3. Click on the link that follows “Your assignment has been created here”, which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
+4. Now, you should be looking at a GitHub repository titled `uva-webapps/project2-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
+
 ### Python and Flask
 
 Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
@@ -35,14 +42,7 @@ Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
 `cd` to a directory where you want to put your project. 
 
-Run
-    
-    $ curl -O https://cdn.cs50.net/web/2018/spring/projects/2/project2.zip
-    $ unzip project2.zip
-    $ rm project2.zip
-    $ cd project2
-
-to download and extract the distribution code.
+Clone your uva-webapps/project1-username repository from GitHub and navigate into this directory.
 
 Run
 
