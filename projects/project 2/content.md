@@ -105,8 +105,13 @@ you! You're also welcome to add additional features to your website, so long as
 you meet the requirements laid out in the above specification!
 
 
+
 ## Hints
 
+* Rooms only exist at the server-side of Socket.IO, when you see rooms in 
+JavaScript code, you are looking at *serverside* JavaScript code, only functions 
+seen on [this](https://socket.io/docs/client-api/) page are valid for the 
+JavaScript client!
 * You shouldn't need to use a database for this assignment. However, you should
   feel free to store any data you need in memory in your Flask application, as
   via using one or more global variables defined in `application.py`.
@@ -114,7 +119,7 @@ you meet the requirements laid out in the above specification!
   storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
   will prove helpful for storing data client-side that will be saved across
   browser sessions.
-- When getting the error: `ValueError: signal only works in main thread` you did 
+* When getting the error: `ValueError: signal only works in main thread` you did 
   set `FLASK_DEBUG` to `1`, run `unset FLASK_DEBUG` to disable debug mode as is 
   isn't compatible with Flask-SocketIO.
 
