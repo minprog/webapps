@@ -12,12 +12,14 @@ In this course, we’ll use GitHub Classroom to distribute projects and collect 
 1. [Click here](https://classroom.github.com/a/ntKY1Xry) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green “Accept this assignment” button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows “Your assignment has been created here”, which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
-4. Next, let’s set up GitHub Pages for this repository. Click on the “Settings” tab on the repository page. Scroll down until you see “GitHub Pages”, set the “Source” to “master branch”, and click “Save.”
-5. If you scroll down on the page again to “GitHub Pages”, you should see the URL at which your GitHub pages website will (soon) live! But first, we’ll need to add some HTML to your repository.
+4. In the upper-right corner of the repository page, click the “Fork” button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
+5. Now, you should be looking at a GitHub repository titled username/project0-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the uva-webprog/project0-username repository: always push your code to your username/project0-username repository.
+6. Next, let’s set up GitHub Pages for this repository. Click on the “Settings” tab on the repository page. Scroll down until you see “GitHub Pages”, set the “Source” to “master branch”, and click “Save.”
+7. If you scroll down on the page again to “GitHub Pages”, you should see the URL at which your GitHub pages website will (soon) live! But first, we’ll need to add some HTML to your repository.
 
 ### Your First Webpage
 
-Okay, let’s add a simple webpage to your repository. First, on your main repository page (https://github.com/uva-webapps/project0-username), click on the green “Clone or download” button. Copy the “Clone with HTTPS” link to your clipboard (if familiar with SSH, you can use that instead).
+Okay, let’s add a simple webpage to your repository. First, on your working repository page (https://github.com/username/project0-username), click on the green “Clone or download” button. Copy the “Clone with HTTPS” link to your clipboard (if familiar with SSH, you can use that instead).
 
 Open "Git Bash" on Windows or the "Terminal" on macOS.
 
@@ -97,7 +99,10 @@ be introduced in [Lecture 1](/lectures/lecture%201).
 ## How to Submit
 
 1. Using Git, push your work to GitHub. Ask for help if needed!
-
-1. Submit the link to your project's GitHub repository below.
-
-2. On (or before) the date of the deadline, show your working website to one of the staff.
+2. Go to the GitHub page for your username/project0-username repository (note: this is different from the uva-webapps/project0-username repository).
+3. On the right side of the screen, click the Pull request button.
+4. Make sure that the “base fork” is uva-webapps/project0-username, and the “head fork” is username/project0-username.
+5. Click “Create pull request”.
+6. On the next page, click the “Create pull request” button again.
+7. Submit the link to your project's GitHub repository below (the one with uva-webapps/project0-username).
+8. On (or before) the date of the deadline, show your working website to one of the staff.

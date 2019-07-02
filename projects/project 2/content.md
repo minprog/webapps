@@ -30,7 +30,8 @@ We recommend that you try to meet the following milestones:
 1. [Click here](https://classroom.github.com/a/oQJcETPM) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green “Accept this assignment” button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows “Your assignment has been created here”, which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
-4. Now, you should be looking at a GitHub repository titled `uva-webapps/project2-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
+4. In the upper-right corner of the repository page, click the “Fork” button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
+5. Now, you should be looking at a GitHub repository titled username/project2-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the uva-webapps/project2-username repository: always push your code to your username/project2-username repository.
 
 ### Python and Flask
 
@@ -42,7 +43,7 @@ Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
 `cd` to a directory where you want to put your project. 
 
-Clone your uva-webapps/project1-username repository from GitHub and navigate into this directory.
+Clone your `username/project1-username` repository from GitHub and navigate into this directory.
 
 Run
 
@@ -132,8 +133,10 @@ Also make sure you tested your webiste with different chanels open.
 ## How to Submit
 
 1. Using Git, push your work to GitHub. Ask for help if needed!
-
-1. Submit the link to your project's GitHub repository below.
-
-2. On (or before) the date of the deadline, show your working website to one of 
-    the staff.
+2. Go to the GitHub page for your username/project2-username repository (note: this is different from the uva-webapps/project2-username repository).
+3. On the right side of the screen, click the Pull request button.
+4. Make sure that the “base fork” is uva-webapps/project2-username, and the “head fork” is username/project2-username.
+5. Click “Create pull request”.
+6. On the next page, click the “Create pull request” button again.
+7. Submit the link to your project's GitHub repository below (the one with uva-webapps/project2-username).
+8. On (or before) the date of the deadline, show your working website to one of the staff.
