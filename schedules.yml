@@ -3,8 +3,8 @@ Webapps (Winter):
         'Overview': '/overview/module-0'
         'Installation': '/installation/overview'
         'Lecture 0': '/lectures/lecture-0'
-        'Project 0': '/projects/project-0'
         'Lecture 1': '/lectures/lecture-1'
+        'Project 0': '/projects/project-0'
     Project 1:
         'Overview': '/overview/module-1'
         'Lecture 2': '/lectures/lecture-2'
