@@ -43,7 +43,7 @@ Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
 `cd` to a directory where you want to put your project. 
 
-Clone your `username/project1-username` repository from GitHub and navigate into this directory.
+Clone your `username/project2-username` repository from GitHub and navigate into this directory.
 
 Run
 
@@ -120,9 +120,10 @@ JavaScript client!
   storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
   will prove helpful for storing data client-side that will be saved across
   browser sessions.
-* When getting the error: `ValueError: signal only works in main thread` you did 
-  set `FLASK_DEBUG` to `1`, run `unset FLASK_DEBUG` to disable debug mode as is 
-  isn't compatible with Flask-SocketIO.
+* When getting the error: `ValueError: signal only works in main thread` it 
+  means you have set `FLASK_DEBUG` to `1`. To resolve this issue run 
+  `unset FLASK_DEBUG` to disable debug mode as is isn't compatible with 
+  Flask-SocketIO.
 
 
 ## Testing
