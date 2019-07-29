@@ -1,4 +1,4 @@
-## What to do
+# Fulltime schedule
 
 ### Week 1
 

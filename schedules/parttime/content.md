@@ -1,4 +1,4 @@
-## What to do
+# Parttime schedule
 
 ### Week 1
 
