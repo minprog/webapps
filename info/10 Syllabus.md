@@ -5,21 +5,13 @@
 
 *Syllabus, Winter 2019*
 
-<!-- Today's applications are increasingly mobile. Computers are no longer confined
-to desks and laps but instead live in our pockets and hands. This course
-teaches students how to build mobile apps for Android and iOS, two of today's
-most popular platforms, and optionally, how to deploy them on Google Play and
-the App Store. Students practice using the platforms through a series of
-programming assignments, and working towards a final project to show off
-everything that has been learned. Students learn to write native apps for
-Android using Studio and the Android SDK *or* to write native apps for iPhones,
-iPod Touches, and iPads using Xcode and the iOS SDK. -->
-
-
 ## Expectations
 
 You are expected to complete the provided exercises, attend most office hours, submit four fully working websites, improve on those apps for your portfolio, and to confer with your mentor regularly. You are also expected to work on preparations for your final programming project.
 
+## What to do
+
+Check out your [schedule](/schedules/fulltime).
 
 ## Getting started 
 
