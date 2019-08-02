@@ -218,7 +218,7 @@ you meet the requirements laid out in the above specification!
   In particular, if each user has an `id`, then you could store that `id` in the
   session (e.g., in `session["user_id"]`) to keep track of which user is
   currently logged in.
-- When adding any files like pictures or JavsScript, make sure you place them in
+- When adding any files like pictures or JavaScript, make sure you place them in
      the `static` folder. ([documentation](http://flask.pocoo.org/docs/1.0/tutorial/static/))
 
 
