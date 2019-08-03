@@ -28,6 +28,7 @@ We’ll again use GitHub Classroom to distribute projects and collect submission
 3. Click on the link that follows “Your assignment has been created here”, which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. In the upper-right corner of the repository page, click the “Fork” button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
 5. Now, you should be looking at a GitHub repository titled username/project1-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the uva-webapps/project1-username repository: always push your code to your username/project1-username repository.
+
 ### PostgreSQL
 
 For this project, you'll need to set up a PostgreSQL database to use with our
@@ -217,7 +218,7 @@ you meet the requirements laid out in the above specification!
   In particular, if each user has an `id`, then you could store that `id` in the
   session (e.g., in `session["user_id"]`) to keep track of which user is
   currently logged in.
-- When adding any files like pictures or JavsScript, make sure you place them in
+- When adding any files like pictures or JavaScript, make sure you place them in
      the `static` folder. ([documentation](http://flask.pocoo.org/docs/1.0/tutorial/static/))
 
 

@@ -61,7 +61,7 @@ Alright, it's time to actually build your web application! Here are the
 requirements:
 
 * **Menu**: Your web application should support all of the available menu items
-  for [Pinnochio's Pizza & Subs](http://www.pinocchiospizza.net/menu.html) (a
+  for [Pinocchio's Pizza & Subs](http://www.pinocchiospizza.net/menu.html) (a
   popular pizza place in Cambridge). It's up to you, based on analyzing the menu
   and the various types of possible ordered items (small vs. large, toppings,
   additions, etc.) to decide how to construct your models to best represent the
@@ -69,7 +69,7 @@ requirements:
   migration files, and apply those migrations.
 * **Adding Items**: Using Django Admin, site administrators (restaurant owners)
   should be able to add, update, and remove items on the menu. Add all of the
-  items from the Pinnochio's menu into your database using either the Admin UI
+  items from the Pinocchio's menu into your database using either the Admin UI
   or by running Python commands in Django's shell.
 * **Registration, Login, Logout**: Site users (customers) should be able to
   register for your web application with a username, password, first name, last
