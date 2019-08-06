@@ -10,7 +10,7 @@
 
 In this project, you'll build an online messaging service using Flask, similar
 in spirit to [Slack](https://slack.com/). Users will be able to sign into your
-site with a display name, create channels (i.e. chatroom's) to communicate in,
+site with a display name, create channels (i.e. chatrooms) to communicate in,
 as well as see and join existing channels. Once a channel is selected, users
 will be able to send and receive messages with one another in real time.
 Finally, you'll add a personal touch to your chat application of your choosing!
@@ -118,7 +118,7 @@ you meet the requirements laid out in the above specification!
   browser sessions.
 * When getting the error: `ValueError: signal only works in main thread` it 
   means you have set `FLASK_DEBUG` to `1`. To resolve this issue run 
-  `unset FLASK_DEBUG` to disable debug mode as is isn't compatible with 
+  `unset FLASK_DEBUG` to disable debug mode as it isn't compatible with 
   Flask-SocketIO.
 
 
