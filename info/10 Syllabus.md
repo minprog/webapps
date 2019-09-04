@@ -37,7 +37,7 @@ You must fully complete the projects, each before the deadline listed below, to 
 
 To get credit for each project, demonstrate its functionality on or immediately after that websites's deadline. You will receive on-the-spot feedback from a teacher, and the website's completion will be noted. It is up to you to write down a summary of the feedback you receive and to create a list of `TODO`s to improve your project.
 
-Final grading for all projects will take place *afer* the courses' final deadline, to ensure that you have ample time to incorporate feedback from staff and peers. Each project will receive a grade using the following scheme:
+Final grading for your portfolio of projects will take place *afer* the courses' final deadline, to ensure that you have ample time to incorporate feedback from staff and peers. Each project will receive a grade using the following scheme:
 
 | pts | description                                                                          |  
 | --: | ------------------------------------------------------------------------------------ |  
@@ -48,10 +48,12 @@ Final grading for all projects will take place *afer* the courses' final deadlin
 |   1 | Clearly, quite a bit of effort went into it, but it does not really work.            |  
 |   0 | Not submitted or very incomplete.                                                    |  
 
+All projects have equal weight in the final grade.
+
 
 ## Code reviews
 
-In later weeks, you will be asked to plan code reviews with another student. This is an excellent opportunity to get feedback on your portfolio.
+In later weeks, you will be asked to plan code reviews with another student. This is an excellent opportunity to get additional feedback on your portfolio.
 
 
 ## Collaboration
