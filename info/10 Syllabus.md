@@ -1,19 +1,29 @@
 # Web App Studio
 
-- ding
-{:toc}
+## Studiewijzer, herfst 2019
 
-*Syllabus, Fall 2019*
+"This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
+
+
+## Prerequsisites
+
+CS50, CS50x or Programmeren 1 with Programmeren 2.
 
 
 ## Expectations
 
-You are expected to implement and submit four fully working websites, to improve on those for your portfolio, and to confer with your mentor regularly. You are also expected to work on preparations for your final project.
+You are expected to:
+
+- implement and submit four fully working websites,
+- improve on those for your portfolio, and
+- confer with your mentor regularly.
+
+You are also expected to work on some preparations for your final project, which is the follow-up course.
 
 
 ## Deadlines
 
-You must fully complete four projects, each before the deadlines listed below, to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course. You may re-take the course as a whole in a later semester.
+You must fully complete the projects, each before the deadline listed below, to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course. You may re-take the course as a whole in a later semester.
 
 |           | date                    |  
 | --------- | ----------------------- |  
@@ -54,7 +64,7 @@ classmates' reviews of your code into your own work, so long as you attribute
 those ideas and techniques back to your classmates, as with comments in your
 own code. You may discuss projects, including designs, but you may not share
 *code*. In other words, you may communicate with those classmates in English,
-but you may not communicate in Swift, Java, or Objective-C and such languages.
+but you may not communicate in Python, Ecmascript, HTML and such languages.
 If in doubt as to the appropriateness of some discussion, contact the course's
 heads.
 
@@ -63,7 +73,7 @@ heads.
 
 You may turn to the web for instruction beyond the course's lectures and
 sections, for references, and for solutions to technical difficulties, but not
-for outright solutions to problems on homework or your project. However,
+for outright solutions to project assignments. However,
 failure to cite (as with comments) the origin of any code or technique that you
 do discover outside of the course's lectures and sections (even while
 respecting these constraints) and then integrate into your own work may be
