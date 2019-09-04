@@ -3,83 +3,31 @@
 - ding
 {:toc}
 
-*Syllabus, Winter 2019*
+*Syllabus, Fall 2019*
+
 
 ## Expectations
 
-You are expected to complete the provided exercises, attend most office hours, submit four fully working websites, improve on those apps for your portfolio, and to confer with your mentor regularly. You are also expected to work on preparations for your final programming project.
-
-## What to do
-
-Check out your [schedule](/schedules/fulltime).
-
-## Getting started 
-
-- Check if your [personal timetable](https://datanose.nl/) shows Web App Studio.
-- Read the remainder of this syllabus.
-<!-- - Install all required software for [Android](/installation/android). -->
-- Come to the first session to get acquainted to the staff.
-- When in doubt, contact the course's heads at <help@mprog.nl> or speak to your mentor.
+You are expected to implement and submit four fully working websites, to improve on those for your portfolio, and to confer with your mentor regularly. You are also expected to work on preparations for your final project.
 
 
-## Prerequisites 
+## Deadlines
 
-Programming 1 and 2, or equivalent, as decided by the course's instructor. You need to be
-comfortable with memory management, runtime analysis, design patterns, databases, and basic data
-structures and algorithms. You also need to have a laptop capable of running Python.
-
-
-## Asking questions
-
-The course's staff consists of your instructor and many teaching assistants. You are encouraged to ask questions to the staff. Whenever you are in the lab, feel free to send a help request by using the <i class="fa fa-hand-pointer-o fa-fw"></i> menu, above.
-
-A list of the course's staff:
-
-- Martijn Stegeman (instructor)
-- Renske Talsma (Android)
-- Natasja Wezel (Android)
+|  | date |
+| ------- | ----|
+| Project 0 | Wednesday, 11 September |
+| Project 1 | Wednesday, 25 September |
+| Project 2 | Wednesday, 9 October |
+| Project 3 | Wednesday, 23 October |
 
 
-## What to do
+## Grading
 
-Every week, lectures and a project will be made available. 
-Final grades are determined using the following weights:
-
-TODO: project 0,1,2,3 moeten 5.5 zijn?
-
-| projects (0,1,2,3) | 50% |
-| final project      | 50% |
-
-
-| number | weight |
-| -----: | -----: |
-| 0      | 0%     |
-| 1      | 33%    |
-| 2      | 33%    |
-| 3      | 33%    |
-
-
-For both exercises and projects, there are seven deadlines. There is also one final deadline for submitting improved versions of your projects for your portfolio.
-
-| number |    deadline |  
-| ------ | ----------: |  
-| 0      | ?           |
-| 1      | Thu   4-Apr |  
-| 2      | Thu  11-Apr |  
-| 3      | Thu  18-Apr |  
-| final  | Mon  27-May |  
-
-You must complete all projects before the deadline to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no retakes are possible for any part of the course. You may re-take the course as a whole in a later semester.
-
-
-### Grades 
-
-Each week, you will create a website using the concepts introduced in lectures. 
-<!-- Grading takes place portfolio-style. At the end of the course, you will created have seven projects and refined those during the weeks after first submitting. -->
+You must fully complete all projects before the deadline to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course. You may re-take the course as a whole in a later semester.
 
 To get credit for each project, demonstrate its functionality on or before that websites's deadline. You will receive immediate feedback from the staff and the website's completion will be noted.
 
-Final grading will take place afer the deadline of the website using the following scheme:
+Final grading will take place afer the final deadline of the course, for all projects! Each project will receive a grade using the following scheme:
 
 | pts | description                                                                          |  
 | --: | ------------------------------------------------------------------------------------ |  
@@ -90,35 +38,11 @@ Final grading will take place afer the deadline of the website using the followi
 |   1 | Clearly, quite a bit of effort went into it, but it does not really work.            |  
 |   0 | Not submitted or very incomplete.                                                    |  
 
+
 ## Code reviews
 
-You'll review your peers' apps and have peers review your own creations. This is an excellent opportunity to get feedback on your portfolio.
+In later weeks, you will be asked to plan code reviews with another student. This is an excellent opportunity to get feedback on your portfolio.
 
-
-## Office hours
-
-Office hours are opportunities to work on projects and exercise materials alongside the course's teaching assistants.
-
-| weekday  | Android |  
-| -------- | ------: |  
-| Mondays  |  11--13 |  
-| Thursday |  11--13 |  
-
-
-## Mentoring
-
-You are expected to make an appointment with your assigned mentor on Fridays every week. Your mentor will help you get started, provide you with additional feedback for your portfolio and can answer most practical questions.
-
-
-## Tutoring 
-
-For students who avail themselves of the course's other resources but still find themselves struggling, the course offers tutoring, to the extent possible, providing opportunities for students to work with the course's staff one-on-one or in particularly small groups. To arrange, contact the course's heads.
-
-
-## Books 
-
-No books are required, but the following book may provide additional learning material: Bill Phillips, Chris Stewart and Kristin Marsicano, [*Android Programming, the Big Nerd Ranch Guide*](https://www.bignerdranch.com/books/android-programming/).
-William S. Vincent, [Django for Beginners](https://djangoforbeginners.com/).
 
 ## Collaboration
 
