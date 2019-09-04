@@ -23,7 +23,7 @@ You are also expected to work on some preparations for your final project, which
 
 ## Deadlines
 
-You must fully complete the projects, each before the deadline listed below, to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course. You may re-take the course as a whole in a later semester.
+You must fully complete the projects, each before the deadline listed below, to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course.
 
 |           | date                    |  
 | --------- | ----------------------- |  
@@ -90,6 +90,11 @@ programme. Find them here in [English] and [Dutch].
 
 [Dutch]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
 [English]: http://student.uva.nl/en/az/a-z/a-z/content/folder/plagiarism-and-fraud/plagiarism-and-fraud.html
+
+
+## Resitting the course
+
+If you miss a deadline and have to discontinue the course, please make sure that you discuss, as soon as possible, your possibilities of taking the course in a later semester.
 
 
 ## Acknowledgements
