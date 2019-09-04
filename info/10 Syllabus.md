@@ -92,7 +92,7 @@ programme. Find them here in [English] and [Dutch].
 [English]: http://student.uva.nl/en/az/a-z/a-z/content/folder/plagiarism-and-fraud/plagiarism-and-fraud.html
 
 
-## Resitting the course
+## Retaking the course
 
 If you miss a deadline and have to discontinue the course, please make sure that you discuss, as soon as possible, your possibilities of taking the course in a later semester.
 
