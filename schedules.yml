@@ -6,16 +6,16 @@ Fall Parttime:
         Lecture 0: /lectures/lecture-0
         Lecture 1: /lectures/lecture-1
         Project 0: /projects/project-0
-    Module 1:
-        Lecture 2: /lectures/lecture-2
-        Lecture 3: /lectures/lecture-3
-        Project 1: /projects/project-1
-        Lecture 4: /lectures/lecture-4
-    Module 2:
-        Lecture 5: /lectures/lecture-5
-        Project 2: /projects/project-2
-        Lecture 6: /lectures/lecture-6
-    Module 3:
-        Lecture 7: /lectures/lecture-7
-        Project 3: /projects/project-3
-        Lecture 8: /lectures/lecture-8
+    # Module 1:
+    #     Lecture 2: /lectures/lecture-2
+    #     Lecture 3: /lectures/lecture-3
+    #     Project 1: /projects/project-1
+    #     Lecture 4: /lectures/lecture-4
+    # Module 2:
+    #     Lecture 5: /lectures/lecture-5
+    #     Project 2: /projects/project-2
+    #     Lecture 6: /lectures/lecture-6
+    # Module 3:
+    #     Lecture 7: /lectures/lecture-7
+    #     Project 3: /projects/project-3
+    #     Lecture 8: /lectures/lecture-8
