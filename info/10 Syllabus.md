@@ -35,7 +35,7 @@ You must fully complete the projects, each before the deadline listed below, to 
 
 ## Grading
 
-To get credit for each project, demonstrate its functionality on or immediately after that websites's deadline. You will receive on-the-spot feedback from a teacher, and the website's completion will be noted.
+To get credit for each project, demonstrate its functionality on or immediately after that websites's deadline. You will receive on-the-spot feedback from a teacher, and the website's completion will be noted. It is up to you to write down a summary of the feedback you receive and to create a list of `TODO`s to improve your project.
 
 Final grading for all projects will take place *afer* the courses' final deadline, to ensure that you have ample time to incorporate feedback from staff and peers. Each project will receive a grade using the following scheme:
 
