@@ -13,6 +13,12 @@ add items to their cart, and submit their orders. Meanwhile, the restaurant
 owners will be able to add and update menu items, and view orders that have
 been placed.
 
+## Preparations
+
+Before your do anything else, watch and understand these video lectures:
+
+- Lecture 7, [Django](/lectures/django)
+
 ## Milestones
 
 We recommend that you try to meet the following milestones in order:

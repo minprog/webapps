@@ -15,6 +15,14 @@ as well as see and join existing channels. Once a channel is selected, users
 will be able to send and receive messages with one another in real time.
 Finally, you'll add a personal touch to your chat application of your choosing!
 
+## Preparations
+
+Before your do anything else, watch and understand these video lectures:
+
+- Lecture 4, [ORMs, APIs](/lectures/orms)
+- Lecture 5, [Javascript](/lectures/javascript)
+- Lecture 6, [Front ends](/lectures/frontends)
+
 ## Milestones
 
 We recommend that you try to meet the following milestones:

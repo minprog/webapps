@@ -5,6 +5,13 @@
 * Become more comfortable with HTML and CSS to design and style webpages.
 * Learn to use SCSS to write more complex stylesheets for your webpages.
 
+## Preparations
+
+Before your do anything else, watch and understand these video lectures:
+
+- Lecture 0, [Git](/lectures/git)
+- Lecture 1, [HTML and CSS](/lectures/html)
+
 ## Getting Started
 
 In this course, we’ll use GitHub Classroom to distribute projects and collect submissions. To begin Project 0:

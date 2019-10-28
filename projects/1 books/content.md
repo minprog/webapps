@@ -17,6 +17,13 @@ to pull in ratings from a broader audience.
 Finally, users will be able to query for book details and book reviews
 programmatically via your website's API.
 
+## Preparations
+
+Before your do anything else, watch and understand these video lectures:
+
+- Lecture 2, [Flask](/lectures/flask)
+- Lecture 3, [SQL](/lectures/sql)
+
 ## Getting Started
 
 ### GitHub Classroom
