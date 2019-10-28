@@ -12,7 +12,7 @@ Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink
 
 ## Voorkennis
 
-Programmeren 1 en Programmeren 2 moeten volledig afgerond zijn vóór je deze cursus start.
+Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
 ## Verwachtingen
