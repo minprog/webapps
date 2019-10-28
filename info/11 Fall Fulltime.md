@@ -2,35 +2,71 @@
 
 ## Studiewijzer, herfst 2019
 
-"This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
+> "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
 
 
-## Prerequsisites
+## Docenten
 
-CS50, CS50x or Programmeren 1 with Programmeren 2.
-
-
-## Expectations
-
-You are expected to:
-
-- implement and submit four fully working websites,
-- improve on those for your portfolio, and
-- confer with your mentor regularly.
-
-You are also expected to work on some preparations for your final project, which is the follow-up course.
+Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Lotte Heek, Julia Anten en Kiki van Rongen.
 
 
-## Deadlines
+## Voorkennis
 
-You must fully complete the projects, each before the deadline listed below, to be eligible for a satisfactory grade, unless granted an exception in writing by the course's heads. Also, no immediate retakes are possible for any part of the course.
+Programmeren 1 en Programmeren 2 moeten volledig afgerond zijn vóór je deze cursus start.
 
-|           | date                    |  
-| --------- | ----------------------- |  
-| Project 0 | Wednesday, 11 September |  
-| Project 1 | Wednesday, 25 September |  
-| Project 2 | Wednesday, 9 October    |  
-| Project 3 | Wednesday, 23 October   |  
+
+## Verwachtingen
+
+Om de cursus tot een goed einde te brengen, verwachten we dat je:
+
+1. vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. de vier websites verbetert op basis van gevraagde en ongevraagde feedback,
+1. actief deelneemt aan de werkgroepen,
+1. regelmatig vragen stelt aan de assistenten en docenten,
+1. vier keer actief deelneemt aan onderlinge code reviews,
+1. een interessant en leerzaam eindproject implementeert en inlevert,
+1. flink werk steekt in de vier milestones voor je eindproject, en
+1. de eindpresentaties bijwoont op 20 december.
+
+
+## Eindcijfer
+
+Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Dit cijfer wordt als volgt samengesteld:
+
+1. (50%) Voor de **opdrachten** kun je punten verdienen, tot een maximum van 20 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+
+1. (50%) Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
+
+
+## Kalender
+
+Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (volgens de gegeven specificaties). Daarnaast is de portfolio-deadline vermeld voor het inleveren van de verbeterde versies van deze projecten.
+
+| Opdracht             | Week | Deadline                | 
+| -------------------- | ---: | ----------------------- | 
+| Project 0            |    1 | vrijdag   1 november    | 
+| Project 1            |    2 | vrijdag   8 november    | 
+| Project 2            |    3 | vrijdag  15 november    | 
+| Project 3            |    5 | woensdag 27 november    | 
+| Portfolio            |    5 | donderdag 28 november    | 
+
+Voor het **eindproject** zijn enkele milestones gespecificeerd. 
+
+| Onderdeel     | Week | Deadline               |
+| ------------- | ---: | ---------------------- |
+| Proposal      |    4 |    vrijdag 22 november |
+| Design Doc    |    5 |    vrijdag 29 november |
+| Alpha Version |    6 |  donderdag  5 december |
+| Beta Version  |    7 |  donderdag 12 december |
+
+In de **laatste week** ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de vakantie helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel        | Deadline              |
+| ---------------- | --------------------- |
+| Final Product    |   maandag 16 december |
+| Code reviews     |  woensdag 18 december |
+| Screencast       | donderdag 19 december |
+| Eindpresentaties |   vrijdag 20 december |
 
 
 ## Grading
