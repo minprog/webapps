@@ -2,6 +2,8 @@
 
 To develop web apps you need some tools on you laptop. This guide helps you with installing al these tools.
 
+We assume you're running the latest Mac OS, Catalina. Please ask if you're running an older version and can't upgrade.
+
 
 ## Step 1: Command Line Tools
 
@@ -13,43 +15,32 @@ Run
 
 and click "Install".
 
+
 ## Step 2: Brew
 
-Installing programs can be done via a package manage. macOS does not come with one out of the box, installing one is very easy!
+Some useful development tools can be installed on Mac using "Homebrew".
 
-Open the terminal app (press `⌘Space` and type terminal and press enter).
+1. Open the terminal app (press `⌘-Space`, type **terminal** and press enter).
 
-Run
+2. Go to the [Homebrew](https://brew.sh/) website, copy-paste the "Install Homebrew" command into your Terminal window and press enter.
 
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+3. Homebrew should now install.
 
-to install [brew](https://brew.sh/)
 
-## Step 3: Python and Sass
+## Step 3: Sass
 
-Open the Terminal app (press `⌘Space` and type terminal and press enter).
+Open the Terminal app and run
 
-Run
+    brew install sass/sass/sass
 
-    brew install python sass/sass/sass
+to install [Sass](https://sass-lang.com/) for Project 0.
 
-to install [Python 3.7](https://python.org) and [Sass](https://sass-lang.com/).
 
-## Step 4: A Text-editor
+## Step 4: A code editor
 
-Those of you who have taken CS50 are used to working from within the IDE. In this course, we remove those training wheels. This means you have to download and install a text editor on your own computer. Free code editors are [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/). We would recommend Visual Studio Code, but you are free to choose another editor if you like.
+Good free code editors are: Free code editors are [Textmate](https://macromates.com/download), [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/) and [Sublime Text](https://www.sublimetext.com/). We would recommend Textmate, but you are free to choose another editor if you like.
 
-Once again, these can be installed very easy using the terminal:
-
-    brew cask install visual-studio-code
-
-or 
-
-    brew cask install atom 
-
-or 
-    
-    brew cask install sublime-text
 
 ## Troubleshooting
-Ran into trouble? Contact the staff! It’s important to get started quickly. You only have to do the above once, so get help now and you’ll be set for the remainder of the course!
+
+Ran into trouble? Contact the staff! It’s important to get started quickly. You only have to do the above once, so get help now and you'll be set for the remainder of the course!
