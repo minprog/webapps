@@ -24,7 +24,7 @@ In this course, we’ll use GitHub Classroom to distribute projects and collect 
 6. Next, let’s set up GitHub Pages for this repository. Click on the “Settings” tab on the repository page. Scroll down until you see “GitHub Pages”, set the “Source” to “master branch”, and click “Save.”
 7. If you scroll down on the page again to “GitHub Pages”, you should see the URL at which your GitHub pages website will (soon) live! But first, we’ll need to add some HTML to your repository.
 
-### Your First Webpage
+### Your <s>First</s>Second Webpage
 
 Okay, let’s add a simple webpage to your repository. First, on your working repository page (https://github.com/username/project0-username), click on the green “Clone or download” button. Copy the “Clone with HTTPS” link to your clipboard (if familiar with SSH, you can use that instead).
 
