@@ -138,7 +138,7 @@ different types of toppings, or something else entirely!
 1. Using Git, push your work to GitHub. Ask for help if needed!
 2. Go to the GitHub page for your username/pizza-username repository (note: this is different from the uva-webapps/pizza-username repository).
 3. On the right side of the screen, click the Pull request button.
-4. Make sure that the “base fork” is uva-webapps/pizza-username, and the “head fork” is username/project0-username.
+4. Make sure that the “base fork” is uva-webapps/pizza-username, and the “head fork” is username/pizza-username.
 5. Click “Create pull request”.
 6. On the next page, click the “Create pull request” button again.
 7. Submit the link to your project's GitHub repository below (the one with uva-webapps/pizza-username).
