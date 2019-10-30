@@ -100,8 +100,8 @@ subject to the following requirements:
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
 
-Note that not all of the above requirements are covered in [Lecture 0](/lectures/lecture%200), some will
-be introduced in [Lecture 1](/lectures/lecture%201).
+Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
+be introduced in [Lecture 1](/lectures/html).
 
 ## How to Submit
 
