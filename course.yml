@@ -1,5 +1,5 @@
 name: Web App Studio
-short_name: Web Apps
+short_name: WebApps
 
 acknowledgements:
     - 'Based on CS50’s Web Programming with Python and JavaScript from Harvard University.'
