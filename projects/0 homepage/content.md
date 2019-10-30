@@ -112,4 +112,4 @@ be introduced in [Lecture 1](/lectures/html).
 5. Click “Create pull request”.
 6. On the next page, click the “Create pull request” button again.
 7. Submit the link to your project's GitHub repository below (the one with uva-webapps/project0-username).
-8. On (or before) the date of the deadline, show your working website to one of the staff.
+8. Within one day after submitting, show your working website to one of the staff to have it checked off.
