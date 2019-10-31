@@ -29,35 +29,41 @@ Fall Fulltime:
         Voorbereidingen:
             Lees de studiewijzer: /syllabus
             Installeer je development tools: /install/choose
-        Project 0:
+        Colleges:
             Bekijk College 0: /lectures/git
             Bekijk College 1: /lectures/html
+        Project 0:
             "Project: Homepage": /projects/homepage
     Week 2:
-        Project 1:
+        Colleges:
             Bekijk College 2: /lectures/flask
             Bekijk College 3: /lectures/sql
             Bekijk College 4: /lectures/orms
+        Project 1:
             "Project: Books": /projects/books
     Week 3:
-        Project 2:
+        Colleges:
             Bekijk College 5: /lectures/javascript
             Bekijk College 6: /lectures/frontends
+        Project 2:
             "Project: Flack": /projects/flack
     Week 4:
-        Project 3:
+        Colleges:
             Bekijk College 7: /lectures/django
             Bekijk College 8: /lectures/testing
+        Project 3:
             "Project: Pizza": /projects/pizza
         Eindproject:
             Lever een compleet voorstel in: /milestones/proposal
     Week 5:
-        Project 4:
+        Colleges:
             Bekijk College 7: /lectures/django
             Bekijk College 8: /lectures/testing
+        Project 3 (woensdag):
             "Project: Pizza": /projects/pizza
+        Afronding project 0-3 (donderdag):
             Werk je portfolio bij en lever in: /projects/portfolio
-        Eindproject:
+        Eindproject (vrijdag):
             Lever je design document in: /milestones/proposal
             Lever je prototype in: /milestones/prototype
     Week 6:
