@@ -1,5 +1,5 @@
 grades:
-    homepass:
+    homepage:
         type: pass
     books:
         type: float
