@@ -56,6 +56,8 @@ In de **laatste week** ga je je eindproject afronden middels een aantal verschil
 
 ## Assessment
 
+NOT QUITE FINAL, BUT ALMOST ;-)
+
 During the project, you will use a single public GitHub repository to keep your "work product" and work towards the final version of your project. The repository will ultimately contain your product, final report, process book, and any materials needed to assess your project results. Your grade for this course will be determined on the basis of five criteria of equal weight:
 
 *Solution* --- To what extent does your project implement the features as agreed upon, and is it useful for your intended audience? The final solution will be graded primarily on usefulness and coherence.
