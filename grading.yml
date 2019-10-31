@@ -1,0 +1,33 @@
+grades:
+    homepass:
+        type: pass
+    books:
+        type: float
+        subgrades:
+            points: integer
+        calculation: points/5.0*9.0+1
+        hide_calculated: true
+    flack:
+        type: float
+        subgrades:
+            points: integer
+        calculation: points/5.0*9.0+1
+        hide_calculated: true
+    pizza:
+        type: float
+        subgrades:
+            points: integer
+        calculation: points/5.0*9.0+1
+        hide_calculated: true
+
+calculation:
+    eind-apps:
+        projects: 1
+
+projects:
+    required: true
+    submits:
+        homepage: 0
+        books: 1
+        flack: 1
+        pizza: 1
