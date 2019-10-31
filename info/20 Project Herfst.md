@@ -1,4 +1,4 @@
-# Fulltime Web App Studio <br><small>en Programmeerproject</small>
+# Programmeerproject
 
 ## Studiewijzer, herfst 2019
 
@@ -7,23 +7,20 @@
 
 ## Docenten
 
-Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Lotte Heek, Julia Anten en Kiki van Rongen.
+Je docenten zijn Martijn Stegeman (coördinator), Simon Pauw, en Wouter Vrielink. Assistenten zijn Okke van Eck, Marijn Jansen, Natasja Wezel, Quinten van der Post, Sam Verhezen, Rebecca Davidsson, Miguel Pieters, Jasper den Duijf, Emma Hokken, Lotte Heek, Julia Anten en Kiki van Rongen.
 
 
 ## Voorkennis
 
-Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
+Web App Studio moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
 ## Verwachtingen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
-1. de vier websites verbetert op basis van gevraagde en ongevraagde feedback,
-1. actief deelneemt aan de werkgroepen,
 1. regelmatig vragen stelt aan de assistenten en docenten,
-1. vier keer actief deelneemt aan onderlinge code reviews,
+1. actief deelneemt aan onderlinge code reviews,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
 1. flink werk steekt in de vier milestones voor je eindproject, en
 1. de eindpresentaties bijwoont op vrijdag 20 december.
@@ -31,42 +28,30 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 ## Eindcijfer
 
-Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Dit cijfer wordt als volgt samengesteld:
+Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Dit cijfer wordt als volgt samengesteld: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie bijgehouden (meer info volgt). Alle aspecten moeten voldoende zijn om een eindcijfer te kunnen krijgen.
 
-1. (50%) Voor de **opdrachten** kun je punten verdienen, tot een maximum van 20 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
-
-1. (50%) Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
+Er is géén herkansingsmogelijkheid, omdat er in januari geen ruimte is voor begeleiding en het project als geheel beoordeeld moet worden. Als het niet lukt om het project te voltooien voor de deadline of je hebt aan een bepaald aspect onvoldoende aandacht besteed, dan kun je het vak in het volgende semester weer volgen.
 
 
 ## Kalender
-
-Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (volgens de gegeven specificaties). Daarnaast is de portfolio-deadline vermeld voor het inleveren van de verbeterde versies van deze projecten.
-
-| Opdracht             | Week | Deadline                | 
-| -------------------- | ---: | ----------------------- | 
-| Project 0            |    1 | vrijdag   1 november    | 
-| Project 1            |    2 | vrijdag   8 november    | 
-| Project 2            |    3 | vrijdag  15 november    | 
-| Project 3            |    5 | woensdag 27 november    | 
-| Portfolio            |    5 | donderdag 28 november    | 
 
 Voor het **eindproject** zijn enkele milestones gespecificeerd. 
 
 | Onderdeel     | Week | Deadline               |
 | ------------- | ---: | ---------------------- |
-| Proposal      |    4 |    vrijdag 22 november |
-| Design Doc    |    5 |    vrijdag 29 november |
-| Alpha Version |    6 |  donderdag  5 december |
-| Beta Version  |    7 |  donderdag 12 december |
+| Proposal      |    1 |    maandag  4 november |
+| Design Doc    |    2 |    vrijdag  8 november |
+| Alpha Version |    4 |    vrijdag 22 november |
+| Beta Version  |    6 |    vrijdag  6 december |
 
 In de **laatste week** ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór de vakantie helemaal afgerond is, inclusief eindbeoordeling.
 
-| Onderdeel        | Deadline              |
-| ---------------- | --------------------- |
-| Final Product    |   maandag 16 december |
-| Code reviews     |  woensdag 18 december |
-| Screencast       | donderdag 19 december |
-| Eindpresentaties |   vrijdag 20 december |
+| Onderdeel        | Week   | Deadline              |
+| ---------------- | -----: | --------------------- |
+| Final Product    |      7 | donderdag 12 december |
+| Screencast       |      7 |   vrijdag 13 december |
+| Code reviews     |      8 |  woensdag 18 december |
+| Eindpresentaties |      8 |   vrijdag 20 december |
 
 
 ## Grading
