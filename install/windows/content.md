@@ -58,7 +58,7 @@ Open "Git Bash" from the Start menu.
 
 Run
     
-    echo 'alias sass=sass.bat' >> ~/.bash_profile; source ~/.bash_profile
+    echo 'alias sass=/c/dart-sass/sass.bat' >> ~/.bash_profile; source ~/.bash_profile
 
 to make it easier to run `sass`
 Now you should be able to use sass, execute `sass --version` in your terminal to verify this.
