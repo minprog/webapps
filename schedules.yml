@@ -38,26 +38,24 @@ Fall Fulltime:
         Colleges:
             Bekijk College 2: /lectures/flask
             Bekijk College 3: /lectures/sql
-            Bekijk College 4: /lectures/orms
         Project 1:
             Books: /projects/books
     Week 3:
         Colleges:
+            Bekijk College 4: /lectures/orms
             Bekijk College 5: /lectures/javascript
-            Bekijk College 6: /lectures/frontends
         Project 2:
             Flack: /projects/flack
     Week 4:
         Colleges:
+            Bekijk College 6: /lectures/frontends
             Bekijk College 7: /lectures/django
-            Bekijk College 8: /lectures/testing
         Project 3:
             Pizza: /projects/pizza
         Eindproject:
             Lever een compleet voorstel in: /milestones/proposal
     Week 5:
         Colleges:
-            Bekijk College 7: /lectures/django
             Bekijk College 8: /lectures/testing
         Project 3 (woensdag):
             Pizza: /projects/pizza
