@@ -21,10 +21,10 @@ Fall Parttime:
         Lecture 8: /lectures/testing
 Fall Fulltime:
     Voorbereidingen:
-        Read the Syllabus: /syllabus
-        Install Development Tools: /install/choose
-        Watch Lecture 0: /lectures/git
-        Watch Lecture 1: /lectures/html
+        Lees de studiewijzer: /syllabus
+        Installeer je development tools: /install/choose
+        Bekijk College 0: /lectures/git
+        Bekijk College 1: /lectures/html
     Week 1:
         Voorbereidingen:
             Lees de studiewijzer: /syllabus
@@ -33,3 +33,48 @@ Fall Fulltime:
             Bekijk College 0: /lectures/git
             Bekijk College 1: /lectures/html
             "Project: Homepage": /projects/homepage
+    Week 2:
+        Project 1:
+            Bekijk College 2: /lectures/flask
+            Bekijk College 3: /lectures/sql
+            Bekijk College 4: /lectures/orms
+            "Project: Books": /projects/books
+    Week 3:
+        Project 2:
+            Bekijk College 5: /lectures/javascript
+            Bekijk College 6: /lectures/frontends
+            "Project: Flack": /projects/flack
+    Week 4:
+        Project 3:
+            Bekijk College 7: /lectures/django
+            Bekijk College 8: /lectures/testing
+            "Project: Pizza": /projects/pizza
+        Project:
+            Schrijf een compleet voorstel: /milestones/proposal
+    Week 5:
+        Project 4:
+            Bekijk College 7: /lectures/django
+            Bekijk College 8: /lectures/testing
+            "Project: Pizza": /projects/pizza
+            Werk je portfolio bij en lever in: /projects/portfolio
+        Project:
+            Lever je design document in: /milestones/proposal
+            Lever je prototype in: /milestones/prototype
+    Week 6:
+        Bekijk College 9: /lectures/github
+        Project:
+            Lever je alfaversie in: /milestones/alpha
+    Week 7:
+        Bekijk College 10: /lectures/scalability
+        Project:
+            Lever je betaversie in: /milestones/beta
+    Week 8:
+        Bekijk College 11: /lectures/security
+        Project:
+            Lever je eindproduct in: TBA
+            Lever je code reviews in: TBA
+            Lever je screencast in: TBA
+            Registreer je voor de eindpresentaties: TBA
+Project Herfst:
+    Week 1:
+        Schrijf een voorstel: /milestones/proposal
