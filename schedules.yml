@@ -52,11 +52,13 @@ Fall Fulltime:
         Project 0:
             Homepage: /projects/homepage
     Week 2:
-        Colleges:
+        Voorbereiding:
             Bekijk College 2: /lectures/flask
             Bekijk College 3: /lectures/sql
         Project 1:
             Books: /projects/books
+        Nodig voor API-deel opdracht:
+            Bekijk College 4: /lectures/orms
     Week 3:
         Colleges:
             Bekijk College 4: /lectures/orms
