@@ -69,7 +69,7 @@ the link provided in the Heroku credentials list.
 
 ### Python and Flask
 
-Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
+Make sure you installed Python (Instruction for [Windows](/install/windows) and [macOS](/install/macos)).
 
 To try running your first Flask
 application:
