@@ -42,13 +42,13 @@ Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te k
 
 Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (volgens de gegeven specificaties). Daarnaast is de portfolio-deadline vermeld voor het inleveren van de verbeterde versies van deze projecten.
 
-| Opdracht             | Week | Deadline                | 
-| -------------------- | ---: | ----------------------- | 
-| Project 0            |    1 | vrijdag   1 november    | 
-| Project 1            |    2 | vrijdag   8 november    | 
-| Project 2            |    3 | vrijdag  15 november    | 
-| Project 3            |    5 | woensdag 27 november    | 
-| Portfolio            |    5 | donderdag 28 november    | 
+| Opdracht              | Week | Deadline              |  
+| --------------------- | ---: | --------------------- |  
+| Project 0             |    1 | vrijdag  1 november   |  
+| Project 1             |    2 | woensdag 13 november  |  
+| Project 2 (optioneel) |    3 | woensdag 27 november  |  
+| Project 3             |    5 | woensdag 27 november  |  
+| Portfolio             |    5 | donderdag 28 november |  
 
 Voor het **eindproject** zijn enkele milestones gespecificeerd. 
 
