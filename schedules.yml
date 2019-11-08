@@ -63,45 +63,45 @@ Fall Fulltime:
         Colleges:
             Bekijk College 4: /lectures/orms
             Bekijk College 5: /lectures/javascript
-        Project 2:
-            Flack: /projects/flack
-    Week 4:
-        Colleges:
-            Bekijk College 6: /lectures/frontends
-            Bekijk College 7: /lectures/django
-        Project 3:
-            Pizza: /projects/pizza
-        Eindproject:
-            Uitleg & eisen: /projects/final
-            Lever een compleet voorstel in: /milestones/proposal
-    Week 5:
-        College:
-            Bekijk College 8: /lectures/testing
-        Project 3 (woensdag):
-            Pizza: /projects/pizza
-        Afronding project 0 t/m 3 (donderdag):
-            Werk je portfolio bij en lever in: /projects/portfolio
-        Eindproject (vrijdag):
-            Lever je design document in: /milestones/design
-            Lever je prototype in: /milestones/prototype
-    Week 6:
-        College:
-            Bekijk College 9: /lectures/github
-        Eindproject:
-            Lever je alfaversie in: /milestones/alpha
-    Week 7:
-        College:
-            Bekijk College 10: /lectures/scalability
-        Eindproject:
-            Lever je betaversie in: /milestones/beta
-    Week 8:
-        College:
-            Bekijk College 11: /lectures/security
-        Eindproject:
-            Lever je eindproduct in: TBA
-            Lever je code reviews in: TBA
-            Lever je screencast in: TBA
-            Registreer je voor de eindpresentaties: TBA
+    #     Project 2:
+    #         Flack: /projects/flack
+    # Week 4:
+    #     Colleges:
+    #         Bekijk College 6: /lectures/frontends
+    #         Bekijk College 7: /lectures/django
+    #     Project 3:
+    #         Pizza: /projects/pizza
+    #     Eindproject:
+    #         Uitleg & eisen: /projects/final
+    #         Lever een compleet voorstel in: /milestones/proposal
+    # Week 5:
+    #     College:
+    #         Bekijk College 8: /lectures/testing
+    #     Project 3 (woensdag):
+    #         Pizza: /projects/pizza
+    #     Afronding project 0 t/m 3 (donderdag):
+    #         Werk je portfolio bij en lever in: /projects/portfolio
+    #     Eindproject (vrijdag):
+    #         Lever je design document in: /milestones/design
+    #         Lever je prototype in: /milestones/prototype
+    # Week 6:
+    #     College:
+    #         Bekijk College 9: /lectures/github
+    #     Eindproject:
+    #         Lever je alfaversie in: /milestones/alpha
+    # Week 7:
+    #     College:
+    #         Bekijk College 10: /lectures/scalability
+    #     Eindproject:
+    #         Lever je betaversie in: /milestones/beta
+    # Week 8:
+    #     College:
+    #         Bekijk College 11: /lectures/security
+    #     Eindproject:
+    #         Lever je eindproduct in: TBA
+    #         Lever je code reviews in: TBA
+    #         Lever je screencast in: TBA
+    #         Registreer je voor de eindpresentaties: TBA
 Project Herfst:
     Week 1:
         Uitleg & eisen: /projects/final
