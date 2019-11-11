@@ -9,20 +9,23 @@ grades:
     books:
         type: pass
         subgrades:
+            repo_ok: boolean
             done: boolean
-        calculation: done.to_i
+        calculation: (done == -1 && repo_ok == -1) && -1 || 0
         hide_calculated: true
     flack:
         type: pass
         subgrades:
+            repo_ok: boolean
             done: boolean
-        calculation: done.to_i
+        calculation: (done == -1 && repo_ok == -1) && -1 || 0
         hide_calculated: true
     pizza:
         type: pass
         subgrades:
+            repo_ok: boolean
             done: boolean
-        calculation: done.to_i
+        calculation: (done == -1 && repo_ok == -1) && -1 || 0
         hide_calculated: true
 
 calculation:
