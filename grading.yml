@@ -4,25 +4,25 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
-        calculation: checked.to_i
+        calculation: (done.to_i && repo_ok.to_i) && -1 || 0
         hide_calculated: true
     books:
         type: pass
         subgrades:
             done: boolean
-        calculation: checked.to_i
+        calculation: done.to_i
         hide_calculated: true
     flack:
         type: pass
         subgrades:
             done: boolean
-        calculation: checked.to_i
+        calculation: done.to_i
         hide_calculated: true
     pizza:
         type: pass
         subgrades:
             done: boolean
-        calculation: checked.to_i
+        calculation: done.to_i
         hide_calculated: true
 
 calculation:
