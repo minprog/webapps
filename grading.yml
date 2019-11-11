@@ -2,6 +2,7 @@ grades:
     homepage:
         type: pass
         subgrades:
+            repo_ok: boolean
             done: boolean
         calculation: checked.to_i
         hide_calculated: true
