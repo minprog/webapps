@@ -49,7 +49,7 @@ To run this Flask application:
 
 Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
-`cd` to a directory where you want to put your project. 
+`cd` to a directory where you want to put your project.
 
 Clone your `username/flack-username` repository from GitHub and navigate into this directory.
 
@@ -124,9 +124,9 @@ you meet the requirements laid out in the above specification!
   storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
   will prove helpful for storing data client-side that will be saved across
   browser sessions.
-* When getting the error: `ValueError: signal only works in main thread` it 
-  means you have set `FLASK_DEBUG` to `1`. To resolve this issue run 
-  `unset FLASK_DEBUG` to disable debug mode as is isn't compatible with 
+* When getting the error: `ValueError: signal only works in main thread` it
+  means you have set `FLASK_DEBUG` to `1`. To resolve this issue run
+  `unset FLASK_DEBUG` to disable debug mode as is isn't compatible with
   Flask-SocketIO.
 
 
@@ -143,5 +143,7 @@ Also make sure you tested your website with different channels open.
 4. Make sure that the “base fork” is uva-webapps/flack-username, and the “head fork” is username/flack-username.
 5. Click “Create pull request”.
 6. On the next page, click the “Create pull request” button again.
-7. Submit the link to your project's GitHub repository below (the one with uva-webapps/flack-username).
-8. On (or before) the date of the deadline, show your working website to one of the staff.
+7. Click "Merge pull request".
+8. Click "Confirm merge".
+9. Submit the link to your project's GitHub repository below (the one with uva-webapps/flack-username).
+10. On (or before) the date of the deadline, show your working website to one of the staff.

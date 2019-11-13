@@ -76,7 +76,7 @@ application:
 
 Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
-`cd` to a directory where you want to put your project. 
+`cd` to a directory where you want to put your project.
 
 Clone your `username/books-username` repository from GitHub and navigate into this directory.
 
@@ -253,5 +253,7 @@ Make sure that you've set your `DATABASE_URL` environment variable before runnin
 4. Make sure that the “base fork” is uva-webapps/books-username, and the “head fork” is username/books-username.
 5. Click “Create pull request”.
 6. On the next page, click the “Create pull request” button again.
-7. Submit the link to your project's GitHub repository below (the one with uva-webapps/books-username).
-8. On (or before) the date of the deadline, show your working website to one of the staff.
+7. Click "Merge pull request".
+8. Click "Confirm merge".
+9. Submit the link to your project's GitHub repository below (the one with uva-webapps/books-username).
+10. On (or before) the date of the deadline, show your working website to one of the staff.
