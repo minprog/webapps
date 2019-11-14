@@ -33,7 +33,7 @@ Open "Git Bash" on Windows or the "Terminal" on macOS.
 `cd` to a directory where you want to put your project and run
 
     git clone repository_url project0
-    
+
 where `repository_url` is the link you just copied from GitHub. You will be prompted for your GitHub username and password
 
 
@@ -111,5 +111,7 @@ be introduced in [Lecture 1](/lectures/html).
 4. Make sure that the “base fork” is uva-webapps/homepage-username, and the “head fork” is username/homepage-username.
 5. Click “Create pull request”.
 6. On the next page, click the “Create pull request” button again.
-7. Submit the link to your project's GitHub repository below (the one with uva-webapps/homepage-username).
-8. Within one day after submitting, show your working website to one of the staff to have it checked off.
+7. Click "Merge pull request".
+8. Click "Confirm merge".
+9. Submit the link to your project's GitHub repository below (the one with uva-webapps/homepage-username).
+10. On (or before) the date of the deadline, show your working website to one of the staff.
