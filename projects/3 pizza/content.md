@@ -41,8 +41,7 @@ We recommend that you try to meet the following milestones in order:
 
 Make sure you installed Python (Instruction for [Windows](/installation/Windows) and [macOS](/installation/macOS)).
 
-To try running your first Flask
-application:
+To try running your first Django application:
 
 Open "Git Bash" on Windows or the "Terminal" on macOS or Linux.
 
@@ -56,9 +55,7 @@ Run
 
 to make sure all of the necessary Python packages (Django) are installed.
 
-Run `python3 manage.py runserver` to start up your Flask application.
-If you navigate to the URL provided by `django`, you should see the text
-   `"Project 3: TODO"`!
+Run `python3 manage.py runserver` to start up your Django application. If you navigate to the URL provided by `django`, you should see the text `"Project 3: TODO"`!
 
 
 ## Requirements
@@ -124,6 +121,12 @@ you meet the requirements laid out in the above specification!
   for large and small versions of the same dish? Where do toppings fit into your
   model for pizzas, and how do you calculate the ultimate price of a pizza? How
   will you make the custom add-ons for the subs work?
+
+## Constraints
+
+* You should not use jQuery. Using JavaScript is not required for this project, but if you use it, you should show off your newly learning ES6 skills from lecture!
+
+
 
 ## FAQs
 
