@@ -2,7 +2,7 @@
 
 Here we list the requirements that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *implementation details* make sure all projects can be graded in the same way, while ensuring usefulness to a broad audience.
 
-A **general requirement** is that your web app may not be based on code you wrote earlier or similar to the projects you did in this or other courses (it must be a new project) and that you cannot do a project for which the requirements will be set by a third party (the project must be done for this course and not for anyone else).
+A **general requirement** is that your web app may not be based on code you wrote earlier or be similar to the projects you did in this or other courses (it must be a new project) and that you cannot do a project for which the requirements will be set by a third party (the project must be done for this course and not for anyone else).
 
 ## Functional requirements
 
@@ -12,11 +12,11 @@ A **general requirement** is that your web app may not be based on code you wrot
 
 - Your product should be reasonably original with regards to apps that are available on the web these days.
 
-	> Note: originality in this case should likely come from restricting your idea to a specific target audience, to a specific data set, or in some other way. Restraint can help you make your project fit in a few weeks and at the same time allow you to make it much better and more polished!
-
 - Your product should embody good interaction design practices.
 
 - Your product's design should fit well in the platform you're using for layout, like Bootstrap.
+
+> Note: originality in this case should likely come from restricting your idea to a specific target audience, to a specific data set, or in some other way. Restraint can help you make your project fit in a few weeks and at the same time allow you to make it much better and more polished!
 
 ## Implementation details
 
@@ -33,3 +33,5 @@ A **general requirement** is that your web app may not be based on code you wrot
 - Your web application must be shown running on the final day of the course.
 
 - Your web application must be reproducible on another computer by cloning the repository and following instructions in the `README`.
+
+- jQuery may not be used except to use standard functionality from web frameworks like Bootstrap.
