@@ -4,12 +4,19 @@ You'll kick off your project by handing in a proposal document. This document sh
 
 ## Getting started
 
-To start your project, you should create a new empty Github repository. Your project proposal must be written in Markdown and be saved in the repository as `README.md`. This will make sure that the proposal is easily viewable for the staff.
+To start your project, you should accept a new assignment on GitHub classroom:
 
-If needed, refer to the documentation:
+[Accept the Final Project assignment](https://classroom.github.com/a/oR2vO8CN).
 
-- [Github](/reference/github)
-- [Markdown](/reference/markdown)
+Inside your new repository you will find a mostly empty file called `README.md`. Your should write your proposal in that file using the **Markdown** language ([read a brief intro](https://guides.github.com/features/mastering-markdown/)).
+
+## Adding pictures
+
+You will need to include some sketches into your proposal. Put these images inside the folder called **doc** inside your repository. Use exactly that name, for consistency with other projects! To use pictures from the `doc` folder in a Markdown document, use the following example.
+
+    ![Alternative Text](doc/image.png)
+
+Make sure that you provide an alternative (descriptive!) text inside the square brackets as well, as this will greatly help visually impaired people in understanding the contents of your proposal, as well as guarantee that the content of the image is clear, even if it fails to load. 
 
 ## Goal of the document
 
