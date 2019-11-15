@@ -126,7 +126,7 @@ you meet the requirements laid out in the above specification!
 
 * You should not use jQuery. Using JavaScript is not required for this project, but if you use it, you should show off your newly learning ES6 skills from lecture!
 
-
+* You should not use raw SQL queries like you could in Flask. In Django, you should always use the ORM to interact with the database. In very special circumstances it might be OK to write a custom query, but in general this should not be necessary and is not allowed for this assignment.
 
 ## FAQs
 
