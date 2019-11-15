@@ -130,6 +130,10 @@ you meet the requirements laid out in the above specification!
 
 ## FAQs
 
+### I called my model `Pizza_Hut` and now I get errors!
+
+Note that models should be written in `CamelCase` and not in `snake_case`. When writing camel cased names, the words are separated by using capital letters. You should not add underscores, because the Django framework depends on camel casing.
+
 ### I can't get the database design "right"!
 
 Well, unfortunately this is a big challenge. For historical reasons, Pinocchio's menu has become pretty arcane, and a such, hard to "fit" into a nice database design. It's up to you to decide on trade-offs between different solutions.
