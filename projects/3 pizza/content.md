@@ -130,6 +130,10 @@ you meet the requirements laid out in the above specification!
 
 ## FAQs
 
+### I can't get the database design "right"!
+
+Well, unfortunately this is a big challenge. For historical reasons, Pinocchio's menu has become pretty arcane, and a such, hard to "fit" into a nice database design. It's up to you to decide on trade-offs between different solutions.
+
 ### What is a "Special" pizza?
 
 It's up to you to decide what a "special" pizza means, and to implement it
