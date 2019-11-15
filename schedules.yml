@@ -63,12 +63,15 @@ Fall Fulltime:
         Colleges:
             Bekijk College 4: /lectures/orms
             Bekijk College 5: /lectures/javascript
-        Project 2:
-            Flack: /projects/flack
+        Project 1 (woensdag):
+            Books: /projects/books
+        College:
+            Bekijk College 7: /lectures/django
+        Project 3:
+            Pizza: /projects/pizza
     Week 4:
         Colleges:
             Bekijk College 6: /lectures/frontends
-            Bekijk College 7: /lectures/django
         Project 3:
             Pizza: /projects/pizza
         Eindproject:
@@ -79,6 +82,8 @@ Fall Fulltime:
             Bekijk College 8: /lectures/testing
         Project 3 (woensdag):
             Pizza: /projects/pizza
+        Project 2 (woensdag):
+            Flack: /projects/flack
         Afronding project 0 t/m 3 (donderdag):
             Werk je portfolio bij en lever in: /projects/portfolio
         Eindproject (vrijdag):
