@@ -33,7 +33,6 @@ calculation:
         projects: 1
 
 projects:
-    required: true
     submits:
         homepage: 0
         books: 1
