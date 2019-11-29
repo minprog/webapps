@@ -19,8 +19,8 @@ Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze 
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. vier (drie) goedwerkende websites volgens onze beschrijving implementeert en inlevert,
-1. de vier (drie) websites verbetert op basis van gevraagde en ongevraagde feedback,
+1. minimaal vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. de websites verbetert op basis van gevraagde en ongevraagde feedback,
 1. actief deelneemt aan de werkgroepen,
 1. regelmatig vragen stelt aan de assistenten en docenten,
 1. actief deelneemt aan onderlinge code reviews,
@@ -36,7 +36,7 @@ Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te k
 
 1. (50%) Voor de **opdrachten** kun je punten verdienen, tot een maximum van 15 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
 
-1. (50%) Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
+1. (50%) Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
 
 
 ## Kalender
@@ -81,13 +81,13 @@ De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hie
 | ptn | omschrijving                                                                         |  
 | --: | ------------------------------------------------------------------------------------ |  
 |   5 | Exceptioneel in gebruik, layout en code. Iets extra's wordt verwacht.                |  
-|   4 | Solide kwaliteit van gebruik, layout en code. Misschien een vergissing her en der.   |  
+|   4 | Solide kwaliteit van gebruik, layout en code.                                        |  
 |   3 | Redelijke kwaliteit, maar aardig wat ruimte voor verbetering.                        |  
 |   2 | De applicatie werkt maar is van onvoldoende kwaliteit.                               |  
 |   1 | Er is duidelijk aandacht besteed aan het project, maar het werkt niet echt.          |  
 |   0 | Niet ingestuurd of echt incompleet.                                                  |  
 
-Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
+In alle gevallen is er ruimte voor kleine fouten en vergissingen. Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
 
 
 ## Becijfering van het eindproject
