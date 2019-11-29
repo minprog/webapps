@@ -86,7 +86,7 @@ De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hie
 |   1 | Er is duidelijk aandacht besteed aan het project, maar het werkt niet echt.          |  
 |   0 | Niet ingestuurd of echt incompleet.                                                  |  
 
-All projects have equal weight in the final grade.
+Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
 
 
 ## Becijfering van het eindproject
