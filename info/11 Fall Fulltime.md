@@ -69,7 +69,7 @@ In de **laatste week** ga je je eindproject afronden middels een aantal verschil
 | Eindpresentaties | donderdag 19 december |
 
 
-## Grading for Projects 0--3
+## Becijfering van projecten 0--3
 
 Om punten te krijgen voor elk project moet je na afronding de code committen en pushen naar GitHub, en de opdracht laten aftekenen. Aftekenen betekent dat de code daarna in principe klaar is voor beoordeling. Het aftekenen is ook een logisch moment om feedback te vragen aan de assistent, hoewel dit ook op andere momenten kan.
 
