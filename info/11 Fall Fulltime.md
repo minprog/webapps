@@ -25,7 +25,8 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. regelmatig vragen stelt aan de assistenten en docenten,
 1. actief deelneemt aan onderlinge code reviews,
 1. een interessant en voor jou leerzaam eindproject implementeert en inlevert,
-1. flink werk steekt in de vier milestones voor je eindproject, en
+1. flink werk steekt in de vier milestones voor je eindproject,
+1. een screencast maakt van het uitgewerkte product, en
 1. de eindpresentaties bijwoont op donderdag 19 december.
 
 
@@ -91,27 +92,28 @@ Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
 
 ## Becijfering van het eindproject
 
-Je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie. Het project moet voldoen aan minimumeisen zoals gesteld, en moet een zodanige hoeveelheid code en documentatie bevatten dat beoordeling goed mogelijk is (naar oordeel van de docent).
+Je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie. Het project moet voldoen aan minimumeisen zoals gesteld in de instructies aldaar, en moet een zodanige hoeveelheid code en documentatie bevatten dat beoordeling goed mogelijk is (naar oordeel van de docent).
 
-Het cijfer voor dit project zal worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen:
+Het cijfer voor dit project zal worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen. Daarbij is het mogelijk voor elke student om zelf extra nadruk te leggen op bepaalde aspecten. Hiervan worden hieronder steeds voorbeelden gegeven.
 
-*Code* --- In hoeverre is de code zorgvuldig ontworpen en leesbaar? Codekwaliteit zal beoordeeld worden met een rubric, database-ontwerp zal worden beoordeeld op onder andere duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd. Te denken valt aan documentatie in de vorm van commentaar en naamgeving, organisatie van de code in classes en files, eenvoud van de database.
+*Code* --- In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit en database-ontwerp. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
 
 *Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de website een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
 
 *Repository* --- In hoeverre is de repository compleet en netjes? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen.
 
-*Documentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+*Projectdocumentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de screencast, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
 
 > **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
 Op elk van de criteria kun je 1 tot 5 punten verdienen:
 
-1. Niet goed
-2. Redelijk: veel ruimte voor verbetering
-3. Goed: wat ruimte voor verbetering
-4. Zeer goed: beperkt ruimte voor verbetering
 5. Uitstekend: vrijwel geen ruimte voor verbetering
+4. Zeer goed: beperkt ruimte voor verbetering
+3. Goed: wat ruimte voor verbetering
+2. Redelijk: veel ruimte voor verbetering
+1. Niet goed
+{: start="5" reversed="reversed"}
 
 Het scoren van slechts 1 punt op een criterium, of het niet voldoen aan de verwachtingen die hierboven zijn opgesomd, of het niet voldoen aan de praktische eisen voor inleveren, zullen resulteren in het geven van een "NAV" (niet aan de verwachtingen voldaan) voor het vak. Het is dus belangrijker om aandacht te besteden aan alle aspecten van je project, dan dat je applicatie perfect werkt!
 
@@ -152,7 +154,7 @@ Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Un
 
 ## Herkansen
 
-Het vak bestaat uit een hoeveelheid projecten die binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je doorgaans het vak afmaken in een later semester. De projecten worden echter niet *standaard* overgezet. Je moet altijd zelf contact opnemen vóór de start van een nieuwe editie van het vak om afspraken te maken over het meenemen van de oude opdrachten en het verder afmaken van de resterende.
+Het vak bestaat uit een hoeveelheid projecten die binnen de gestelde tijd afgemaakt moeten worden. Red je het niet binnen de tijd, dan kun je doorgaans het vak afmaken in een later semester. De projecten worden echter niet *standaard* overgezet. Een half eindproject moet doorgaans opnieuw worden begonnen. Je moet altijd zelf contact opnemen vóór de start van een nieuwe editie van het vak om afspraken te maken over het meenemen van de oude opdrachten en het verder afmaken van de resterende.
 
 
 ## Dankbetuiging/Acknowledgements
