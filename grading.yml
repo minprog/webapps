@@ -39,3 +39,8 @@ projects:
         books: 1
         flack: 1
         pizza: 1
+
+final:
+    show_progress: true
+    submits:
+        final_project: 0
