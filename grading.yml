@@ -33,6 +33,7 @@ calculation:
         projects: 1
 
 projects:
+    show_progress: true
     submits:
         homepage: 0
         books: 1
