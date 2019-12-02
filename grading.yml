@@ -30,9 +30,9 @@ grades:
     final_project:
         type: pass
         subgrades:
-            repo_ok: boolean
+            link_ok: boolean
             design_aanwezig: boolean
-        calculation: (done == -1 && design_aanwezig == -1) && -1 || 0
+        calculation: (link_ok == -1 && design_aanwezig == -1) && -1 || 0
         hide_calculated: true
 
 calculation:
