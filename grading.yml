@@ -4,7 +4,8 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
-        calculation: (done == -1 && repo_ok == -1) && -1 || 0
+            points: integer
+        calculation: (done == -1 && repo_ok == -1) && (points || -1) || 0
         hide_calculated: true
     books:
         type: pass
