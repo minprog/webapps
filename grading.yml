@@ -12,6 +12,7 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
+            points: integer
         calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     flack:
@@ -19,6 +20,7 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
+            points: integer
         calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     pizza:
@@ -26,6 +28,7 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
+            points: integer
         calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     final_project:
