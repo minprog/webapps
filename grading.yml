@@ -1,6 +1,6 @@
 grades:
     homepage:
-        type: pass
+        type: float
         subgrades:
             repo_ok: boolean
             done: boolean
