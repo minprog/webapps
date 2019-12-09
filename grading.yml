@@ -12,21 +12,21 @@ grades:
         subgrades:
             repo_ok: boolean
             done: boolean
-        calculation: (done == -1 && repo_ok == -1) && -1 || 0
+        calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     flack:
         type: pass
         subgrades:
             repo_ok: boolean
             done: boolean
-        calculation: (done == -1 && repo_ok == -1) && -1 || 0
+        calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     pizza:
         type: pass
         subgrades:
             repo_ok: boolean
             done: boolean
-        calculation: (done == -1 && repo_ok == -1) && -1 || 0
+        calculation: (done == -1 && repo_ok == -1) && (points.to_i || -1) || 0
         hide_calculated: true
     final_project:
         type: pass
