@@ -1,5 +1,7 @@
 # Screencast
 
+> Het doel van de screencast is de beoordeling van de **functionaliteit** en **interactieontwerp** van jouw project. Onze laatste kans voor doorvragen en jouw laatste kans om de mooiste en beste delen te laten zien.
+
 To make sure that the course's staff doesn't miss any interesting feature of your product when grading, you will make a screencast demonstrating your product's features in a **maximum of 6 minutes**. A screencast is simply a recording of your computer or mobile screen, combined with audio of your voice, explaining how the product works.
 
 Keep in mind: the video does not have to be *perfect*! Most important is that the features of your product are clearly demonstrated.
