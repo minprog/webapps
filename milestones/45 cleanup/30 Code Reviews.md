@@ -4,7 +4,7 @@
 
 Doel van de code reviews is niet om je code nog te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
 
-De review wordt meegenomen in de beoordeling van het "code"-deel van je projectcijfer. Je mag je code niet meer aanpassen, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
+De review wordt **wel** meegenomen in de beoordeling van het "code"-deel van je projectcijfer. Je mag je code niet meer aanpassen, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
 
 1. Pick a partner.
 
@@ -23,6 +23,8 @@ Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit 
 Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de review.
 
 ## Deel 2: cleanup
+
+De "netheid" van je repository wordt meegenomen in de beoordeling van het "Repository"-deel van je eindcijfer.
 
 ### Updating the README
 
