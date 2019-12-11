@@ -1,6 +1,8 @@
 ## Code review
 
-You'll team up with another student and perform a code review on each other's repository. Make sure your repository is cleaned up and ready for review before Tuesday at 12 (noon), and then do the code reviews.
+Doel van de code reviews is niet om je code nog te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
+
+De review wordt meegenomen in de beoordeling van het code-deel van je project. Je mag je code niet meer aanpassen, maar in de review kun je laten zien dat je het wel beter had kunnen doen als je nog veel meer tijd had (en hoe je dat dan zou moeten doen!).
 
 1. Pick a partner.
 
@@ -14,6 +16,6 @@ The reviewer must pay attention to:
 
 - Stylistic issues in the code. Make sure that you point out the weak spots. These need to be fixed, especially before the final release (but also before the next code review!).
 
-Doing this will help you and your partner learn, and obtain higher grades, depending on how well you perform the review!
+Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt beschrijven, maar dat ligt natuurlijk helemaal aan de code!
 
-Note: your will not actually *run* the code during the code review! That is not what code review is about.
+Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de review.
