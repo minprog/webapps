@@ -16,10 +16,6 @@ Submit your final code by *push*ing it to GitHub and creating a pull request. Ma
 
 - the **README.md**
 - the **PROCESS.md** that you updated during the project
-- the **ASSESSMENT.md** listing the best parts of your project
 - a **docs** folder for the images in your documents
 - a separate folder containing your project's code
-- the license in *LICENSE*
 - any configuration files like **.gitignore**
-
-*Note the rules for late submissions on the homepage!*
