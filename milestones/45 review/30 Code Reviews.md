@@ -1,4 +1,4 @@
-## Code review
+# Code review
 
 Doel van de code reviews is niet om je code nog te verbeteren, maar om te reflecteren op de kwaliteit van je eigen code. Je krijgt hierbij hulp van een andere student.
 
