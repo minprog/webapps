@@ -24,7 +24,12 @@ Schrijf bovenaan de file de naam van de student die jouw geholpen heeft met de r
 
 ## Deel 2: cleanup
 
-## Updating your design document
+### Updating the README
+
+Your GitHub repository should contain a complete `README.md` file that states the application name, one or two screen shots (**resized** to small width/height), a description of the app's purpose, and your name. The `README` should be easy to read and give a quick overview.
+
+
+### Updating your design document
 
 The `DESIGN.md` should still be in the root of your repository, next to the `README.md`. You should update it to provide a high-level technical overview of your app as it is now. Things we'll look for:
 
@@ -38,13 +43,13 @@ The `DESIGN.md` should still be in the root of your repository, next to the `REA
 
 In general, do not present all info in one big list, but instead try to present the information clearly for someone who doesn't quite know your project.
 
-## Adding ASSESSMENT.md
+### Adding ASSESSMENT.md
 
 Take a look at the [syllabus](/syllabus) to see how your project will be assessed. In `ASSESSMENT.md` you should make a simple list of thing that you do not want us to miss when grading! Clearly point us to things in your code that you particularly like, or describe how you cleaned up certain parts, or parts of the functionality of the app that you're particularly proud of. You should expect that we take all of your code and functionality into account for grading, not just what you list here, but we surely do not want to miss those best parts!
 
 Also, choose the biggest decisions you've taken during the project, from your `PROCESS.md` and write about those: why did you make the decision, what was bad about the previous design ideas, why is the new solution better (and is it still better, now that your project is finished?). A small paragraph, like this one, per big decision suffices.
 
-## Choosing a license for your work
+### Choosing a license for your work
 
 A copyright statement can be either:
 
@@ -60,7 +65,7 @@ Even if you claim "All rights reserved," you can add a more liberal license to t
 
 Follow directions at [GitHub help](https://help.github.com/articles/adding-a-license-to-a-repository/) to add a `LICENSE` file and choose a license that you like, unless you retain all rights for yourself.
 
-## Adding acknowledgements
+### Adding acknowledgements
 
 The `README` should also acknowledge sources of external code, images and other materials that are in the repository but not created by yourself. Make sure that it is clear which directories are copyrighted by different creators.
 
