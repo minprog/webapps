@@ -99,14 +99,14 @@ Fall Fulltime:
     #         Bekijk College 10: /lectures/scalability
     #     Eindproject:
     #         Lever je betaversie in: /milestones/beta
-    # Week 8:
-    #     College:
-    #         Bekijk College 11: /lectures/security
-    #     Eindproject:
-    #         Lever je eindproduct in: TBA
-    #         Lever je code reviews in: TBA
-    #         Lever je screencast in: TBA
-    #         Registreer je voor de eindpresentaties: TBA
+    Week 8:
+        # College:
+        #     Bekijk College 11: /lectures/security
+        Eindproject:
+            Lever je eindproduct in (16 dec): /milestones/product
+            Lever je code reviews in (17 dec): /milestones/review
+            Lever je screencast in (18 dec): /milestones/screencast
+            Geef je eindpresentatie (19 dec): /milestones/demo
 Project Herfst:
     Week 1:
         Uitleg & eisen: /projects/final
