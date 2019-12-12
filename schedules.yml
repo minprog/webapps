@@ -103,6 +103,9 @@ Fall Fulltime:
         # College:
         #     Bekijk College 11: /lectures/security
         Eindproject:
+            Uitleg & eisen: /projects/final
+            Lever een compleet voorstel in: /milestones/proposal
+        Afronding:
             Lever je eindproduct in (16 dec 17.59): /milestones/product
             Maak je repository netjes (17 dec 17.59): /milestones/cleanup
             Lever je screencast in (18 dec 17.59): /milestones/screencast
