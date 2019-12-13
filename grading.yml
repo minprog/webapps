@@ -40,15 +40,15 @@ grades:
         hide_calculated: true
 
 calculation:
-    eind-apps:
+    apps:
         projects: 1
 
 projects:
     show_progress: true
     submits:
-        homepage: 0
+        homepage: 1
         books: 1
-        flack: 1
+        flack: bonus
         pizza: 1
 
 final:
