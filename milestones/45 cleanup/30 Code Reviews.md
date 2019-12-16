@@ -19,7 +19,7 @@ The reviewer must pay attention to:
 
 - How easy it is to make sense of the complete code base (can you understand what goes where and why?). Think aloud when doing this, so the coder under review can take notes and make their code better.
 
-- Stylistic issues in the code. Make sure that you point out the weak spots. These need to be fixed, especially before the final release (but also before the next code review!).
+- Stylistic issues in the code. Make sure that you point out the weak spots.
 
 Het resultaat van de review plaats je in `REVIEW.md`. Naar verwachting zijn dit wel gemiddeld 5 flinke verbeterpunten die je uitgebreid kunt beschrijven, maar dat ligt natuurlijk helemaal aan de code!
 
