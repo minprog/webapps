@@ -1,6 +1,6 @@
 # Cleanup
 
-Je code staat al vast, maar je repository is nog niet netjes en volledig. Dit ga je vandaag verbeteren. Deze verbeteringen kun je vervolgens committen en pushen naar je repository op GitHub.
+Je **code** staat al vast, maar je **repository** is nog niet netjes en volledig. Dit ga je vandaag verbeteren. Deze verbeteringen kun je vervolgens committen en pushen naar je repository op GitHub (geen nieuwe code, wel andere dingen).
 
 ## Deel 1: code review
 
