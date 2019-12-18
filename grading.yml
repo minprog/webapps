@@ -32,7 +32,7 @@ grades:
         calculation: (done == -1 && repo_ok == -1) && ((points.to_i.to_f/5*9+1).round(1) || -1) || 0
         hide_calculated: true
     final_project:
-        type: pass
+        type: float
         subgrades:
             code: integer
             repo: integer
