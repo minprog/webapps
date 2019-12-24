@@ -59,4 +59,4 @@ projects:
 final:
     show_progress: true
     submits:
-        final_project: 0
+        final_project: 1
