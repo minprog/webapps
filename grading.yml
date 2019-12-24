@@ -42,9 +42,9 @@ grades:
         hide_calculated: true
 
 calculation:
-    # eindcijfer:
-    #     projects: 1
-    #     final: 1
+    eindcijfer:
+        projects: 1
+        final: 1
     apps:
         projects: 1
 
