@@ -48,6 +48,8 @@ You are going to need to install Jekyll to be able to generate your website skel
 
     ![embed](https://www.youtube.com/embed/gsYqPL9EFwQ)
 
+    You'll need to get a bit more background on [Markdown](https://daringfireball.net/projects/markdown/basics).
+
 - But besides blog posts, you will generally need to add a few pages to the website containing more static content. For example, on how to contact you or your business. Have a look:
 
     ![embed](https://www.youtube.com/embed/1na-IWfv08M)
