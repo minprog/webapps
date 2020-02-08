@@ -22,9 +22,60 @@ You are going to need to install Jekyll to be able to generate your website skel
     ![embed](https://www.youtube.com/embed/WhrU9m82Wm8)
     ![embed](https://www.youtube.com/embed/LfP7Y9Ja6Qc)
 
-In this course, we’ll use GitHub Classroom to distribute projects and collect submissions. To begin Project 0:
+2. Then, generate a new website according to the example:
 
-1. [Click here](https://classroom.github.com/a/Eg5uW9yi) to go to the GitHub Classroom page for starting the assignment.
+    ![embed](https://www.youtube.com/embed/pxua_1vyFck)
+
+## The Parts and the Whole
+
+- First, let's have a look at **front matter**. Using front matter, you can attach variables to your written content for the website. For example, if you have a Markdown file for a blog post, you can attach a *category* to it, if your site supports showing different categories of posts.
+
+    ![embed](https://www.youtube.com/embed/ZtEbGztktvc)
+
+- Then, learn to create a new blog post file in Markdown, using the example from the following video:
+
+    ![embed](https://www.youtube.com/embed/gsYqPL9EFwQ)
+
+- But besides blog posts, you will generally need to add a few pages to the website containing more static content. For example, on how to contact you or your business. Have a look:
+
+    ![embed](https://www.youtube.com/embed/1na-IWfv08M)
+
+These are the basics parts of any Jekyll website.
+
+## How it all Works
+
+Now let's dive into the details of Jekyll. You aren't quite tied to creating a website just like in the examples. Almost anything in Jekyll is customizable.
+
+- You can specify defaults for front matter variables:
+
+    ![embed](https://www.youtube.com/embed/CLCaJJ1zUHU)
+
+- You can choose a different theme for your website (with some important caveats!):
+
+    ![embed](https://www.youtube.com/embed/NoRS2D-cyko)
+
+- You can create your own layout files using HTML:
+
+    ![embed](https://www.youtube.com/embed/bDQsGdCWv4I)
+
+- You can use the values of variables inside your layouts to make the code more "modular":
+
+    ![embed](https://www.youtube.com/embed/nLJBF2KiOZw)
+
+    (See the [Variables](https://jekyllrb.com/docs/variables/) references on the Jekyll website.)
+
+- You can create "lists" from any collection of posts:
+
+    ![embed](https://www.youtube.com/embed/6N1X5XffuUA)
+
+Note that Jekyll has [built-in support for SCSS](https://jekyllrb.com/docs/assets/). Any `.scss` files in the `css/` folder will automatically be compiled into CSS that the browser can display.
+
+
+## Creating your own Jekyll website
+
+To begin Project 1:
+
+1. [Click here](NOT LIVE YET) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green “Accept this assignment” button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows “Your assignment has been created here”, which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. In the upper-right corner of the repository page, click the “Fork” button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
@@ -35,16 +86,17 @@ In this course, we’ll use GitHub Classroom to distribute projects and collect 
 
 ## Requirements
 
-Alright, now it's time to make your website your own. Design a personal webpage
-about yourself, one of your interests, or any other topic of your choice. The
-subject matter, look and feel, and design of the site are entirely up to you,
-subject to the following requirements:
+Based on your earlier "Homepage" project, create a Jekyll-based website for yourself or some other
+topic of choice. Again, the subject matter, look and feel, and design of the site are entirely up
+to you, subject to the following requirements:
 
-* Your website must contain at least four different `.html` pages, and it
+* Your website must contain at least four different pages, and it
   should be possible to get from any page on your website to any other page by
   following one or more hyperlinks.
-* Your website must include at least one list (ordered or unordered), at least
-  one table, and at least one image.
+* Your website's content (pages and posts) must be written in Markdown.
+* Your website must contain at least two different layouts, which must be written in HTML.
+* Your website's homepage's layout must include a list of the blog posts from the `_posts` directory.
+* Your website's layouts must be based on at least one "include" file.
 * Your website must have at least one stylesheet file.
 * Your stylesheet(s) must use at least five different CSS properties, and at
   least five different types of CSS selectors. You must use the `#id` selector
@@ -61,8 +113,6 @@ subject to the following requirements:
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
 
-Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
-be introduced in [Lecture 1](/lectures/html).
 
 ## How to Submit
 
