@@ -81,8 +81,11 @@ To begin Project 1:
 4. In the upper-right corner of the repository page, click the “Fork” button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
 5. Now, you should be looking at a GitHub repository titled username/homepage-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the uva-webprog/homepage-username repository: always push your code to your username/homepage-username repository.
 6. Next, let’s set up GitHub Pages for this repository. Click on the “Settings” tab on the repository page. Scroll down until you see “GitHub Pages”, set the “Source” to “master branch”, and click “Save.”
-7. If you scroll down on the page again to “GitHub Pages”, you should see the URL at which your GitHub pages website will (soon) live! But first, we’ll need to add some HTML to your repository.
+7. If you scroll down on the page again to “GitHub Pages”, you should see the URL at which your GitHub pages website will (soon) live!
 
+Have a look at the requirements below before starting out! You'll need to have a rough idea of what you're working towards.
+
+It might be instructive to follow the steps on [Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/). Keep in mind the requirements when doing so, and refer back to the videos when needed!
 
 ## Requirements
 
