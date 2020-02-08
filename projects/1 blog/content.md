@@ -5,12 +5,14 @@
 * Learn to use Jekyll to create a more complex website.
 * Better understand how to separate responsibilities in your code.
 
-## Techniques
+## What you need to find out
 
 * How to install Ruby and Jekyll
 * How to configure Jekyll
 * How to write Markdown
 * How to write templates with Liquid
+* How to embed SCSS into a Jekyll project
+* How to put all elements together
 * How to put your Jekyll site on GitHub Pages
 
 ## Preparations
