@@ -5,6 +5,15 @@
 * Learn to use Jekyll to create a more complex website.
 * Better understand how to separate responsibilities in your code.
 
+## What to Learn
+
+* How to install Ruby and Jekyll
+* What components Jekyll has
+* How to configure Jekyll
+* How to write Markdown
+* How to write templates with Liquid
+* How to put your Jekyll site on GitHub Pages
+
 ## Preparations
 
 For this project, you'll be using Jekyll, which is a **static site generator**. It allows you to define some logic using a programming language called Liquid, write templates in HTML, add layout using CSS, and write "blog posts" using Markdown. Mike Dane provides a short introduction:
