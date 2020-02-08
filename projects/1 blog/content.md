@@ -79,11 +79,11 @@ To begin Project 1:
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. In the upper-right corner of the repository page, click the "Fork" button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
-5. Now, you should be looking at a GitHub repository titled `username/blog-username`, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the `uva-webprog/blog-username` repository: always push your code to your username/homepage-username repository.
+5. Now, you should be looking at a GitHub repository titled `username/blog-username`, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. When working on the project, do not directly push to the `uva-webprog/blog-username` repository: always push your code to your username/blog-username repository.
 6. Next, let’s set up GitHub Pages for this repository. Click on the "Settings" tab on the repository page. Scroll down until you see "GitHub Pages", set the "Source" to "master branch", and click "Save."
 7. If you scroll down on the page again to "GitHub Pages", you should see the URL at which your GitHub pages website will (soon) live!
 
-Before starting out, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside the 
+Before starting out, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory.
 
 It might be instructive to follow the steps on [Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/). Keep in mind the requirements when doing so, and refer back to the videos when needed!
 
@@ -120,12 +120,12 @@ to you, subject to the following requirements:
 ## How to Submit
 
 1. Using Git, push your work to GitHub. Ask for help if needed!
-2. Go to the GitHub page for your username/homepage-username repository (note: this is different from the uva-webapps/homepage-username repository).
+2. Go to the GitHub page for your username/blog-username repository (note: this is different from the uva-webapps/blog-username repository).
 3. On the right side of the screen, click the Pull request button.
-4. Make sure that the "base fork" is uva-webapps/homepage-username, and the "head fork" is username/homepage-username.
+4. Make sure that the "base fork" is uva-webapps/blog-username, and the "head fork" is username/blog-username.
 5. Click "Create pull request".
 6. On the next page, click the "Create pull request" button again.
 7. Click "Merge pull request".
 8. Click "Confirm merge".
-9. Submit the link to your project's GitHub repository below (the one with uva-webapps/homepage-username).
+9. Submit the link to your project's GitHub repository below (the one with uva-webapps/blog-username).
 10. On (or before) the date of the deadline, show your working website to one of the staff.
