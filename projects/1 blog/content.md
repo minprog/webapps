@@ -7,13 +7,15 @@
 
 ## What you need to find out
 
-* How to install Ruby and Jekyll
-* How to configure Jekyll
-* How to write Markdown
-* How to write templates with Liquid
-* How to embed SCSS into a Jekyll project
-* How to put all elements together
-* How to put your Jekyll site on GitHub Pages
+How to:
+
+* install Ruby and Jekyll,
+* configure Jekyll,
+* write Markdown,
+* write templates with Liquid,
+* embed SCSS into a Jekyll project,
+* put all elements together, and
+* put your Jekyll site on GitHub Pages.
 
 ## Preparations
 
