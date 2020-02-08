@@ -25,7 +25,7 @@ For this project, you'll be using Jekyll, which is a **static site generator**. 
 
 > All of these languages serve their own purposes. It's quite a bit of work to master all of these, but it will eventually allow you to write each of the parts of your website more easily. We call this **separation of concerns**: your project is separated in multiple parts, each having a specific purpose.
 > 
-> In the case of creating web pages with HTML, we usually include separate files written in the languages CSS and Javascript. Their purposes are separate: HTML is for writing content and some layout, CSS is for specifying layout rules, and Javascript is for defining user interactions.
+> In the case of creating web pages with HTML, we usually include separate files written in the languages CSS and Javascript. Their purposes are also separate: HTML is for writing content and some layout, CSS is for specifying layout rules, and Javascript is for defining user interactions.
 >
 > In Jekyll, we acknowledge that HTML is sometimes used for layout purposes, and we separate out the content into Markdown files, simplifying writing content even more. HTML is only used for layout and defining components on the website. So, more separation of concerns!
 > 
