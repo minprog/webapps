@@ -17,7 +17,7 @@ Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze 
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. minimaal vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. minimaal vijf goedwerkende websites volgens onze beschrijving implementeert en inlevert,
 1. de websites verbetert op basis van gevraagde en ongevraagde feedback,
 1. actief deelneemt aan de werkgroepen,
 1. regelmatig vragen stelt aan de assistenten en docenten, en
@@ -26,9 +26,7 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 ## Eindcijfer
 
-Let op dat je aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Dit cijfer wordt als volgt samengesteld:
-
-(100%) Voor de **opdrachten** kun je punten verdienen, tot een maximum van 20 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Voor de **opdrachten** kun je punten verdienen, tot een maximum van 30 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
 
 
 ## Kalender
