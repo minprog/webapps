@@ -23,7 +23,15 @@ For this project, you'll be using Jekyll, which is a **static site generator**. 
 
 ![embed](https://www.youtube.com/embed/T1itpPvFWHI)
 
-All of these languages serve their own purposes, allowing you to write each part more easily. Jekyll is able to take your files and from those generate a HTML/CSS-based website that may be put online. Even better, you can put your Jekyll website on GitHub, make changes, and GitHub Pages will put it online for you.
+> All of these languages serve their own purposes. It's quite a bit of work to master all of these, but it will eventually allow you to write each of the parts of your website more easily. We call this **separation of concerns**: your project is separated in multiple parts, each having a specific purpose.
+> 
+> In the case of creating web pages with HTML, we usually include separate files written in the languages CSS and Javascript. Their purposes are separate: HTML is for writing content and some layout, CSS is for specifying layout rules, and Javascript is for defining user interactions.
+>
+> In Jekyll, we acknowledge that HTML is sometimes used for layout purposes, and we separate out the content into Markdown files, simplifying writing content even more. HTML is only used for layout and defining components on the website. So, more separation of concerns!
+> 
+> Separating these parts will allow you to keep track of each more easily. As your programming projects grow, this becomes more and more important.
+
+Jekyll is able to take your files and from those generate a HTML/CSS-based website that may be put online. Even better, you can put your Jekyll website on GitHub, make changes, and GitHub Pages will put it online for you.
 
 ## Getting Started
 
