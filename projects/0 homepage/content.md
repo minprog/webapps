@@ -1,4 +1,4 @@
-# Project 0: Homepage
+# Homepage
 
 ## Objectives
 
