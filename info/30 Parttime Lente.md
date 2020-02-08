@@ -54,14 +54,14 @@ Je moet vóór de definitieve beoordeling nog een code review doen met een medes
 De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hiervoor wordt een speciale "portfolio"-deadline aangewezen (zie boven). Elk project krijgt een score op basis van het volgende schema:
 
 | ptn | omschrijving                                                                      |  
-| --: | --------------------------------------------------------------------------------- |  
-|   6 | Exceptioneel in **gebruik**, **layout** en **code**. Iets extra's wordt verwacht. |  
-|   5 | Uitstekende kwaliteit van gebruik, layout en code.                                |  
-|   4 | Degelijke kwaliteit, met redelijk wat ruimte voor verbetering.                    |  
-|   3 | Voldoende kwaliteit, maar erg veel ruimte voor verbetering.                       |  
-|   2 | De applicatie werkt maar is van onvoldoende kwaliteit.                            |  
-|   1 | Er is duidelijk aandacht besteed aan het project, maar het werkt niet echt.       |  
-|   0 | Niet ingestuurd of echt incompleet.                                               |  
+| :-: | --------------------------------------------------------------------------------- |  
+|  6  | Exceptioneel in **gebruik**, **layout** en **code**. Iets extra's wordt verwacht. |  
+|  5  | Uitstekende kwaliteit van gebruik, layout en code.                                |  
+|  4  | Degelijke kwaliteit, met redelijk wat ruimte voor verbetering.                    |  
+|  3  | Voldoende kwaliteit, maar erg veel ruimte voor verbetering.                       |  
+|  2  | De applicatie werkt maar is van onvoldoende kwaliteit.                            |  
+|  1  | Er is duidelijk aandacht besteed aan het project, maar het werkt niet echt.       |  
+|  0  | Niet ingestuurd of echt incompleet.                                               |  
 
 In alle gevallen is er ruimte voor kleine fouten en vergissingen. Alle projecten van 0--4 wegen even zwaar in het eindcijfer.
 
