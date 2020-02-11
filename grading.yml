@@ -2,10 +2,15 @@ grades:
     homepage:
         type: float
         subgrades:
-            repo_ok: boolean
-            done: boolean
+            on_github: boolean
+            gh_pages: boolean
+            four_htmls: boolean
+            scss: boolean
+            mobile: boolean
+            bootstrap: boolean
+            readme: boolean
             points: integer
-        calculation: (done == -1 && repo_ok == -1) && ((points.to_i.to_f/5*9+1).round(1) || -1) || 0
+        calculation: (on_github == -1 && gh_pages == -1 && four_htmls == -1 && scss == -1 && mobile == -1 && bootstrap == -1 && readme == -1) && ((points.to_i.to_f/6*9+1).round(1) || -1) || 0
         hide_calculated: true
     books:
         type: float
