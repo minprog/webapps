@@ -99,6 +99,7 @@ subject to the following requirements:
 * In `README.md`, include a short writeup describing your project, what's
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
+* Also in `README.md`, prominently feature a link to the live GitHub Pages version of your homepage.
 
 Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
 be introduced in [Lecture 1](/lectures/html).

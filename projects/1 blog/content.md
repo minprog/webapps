@@ -141,7 +141,7 @@ to you, subject to the following requirements:
 * In `README.md`, include a short writeup describing your project, what's
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
-
+* Also in `README.md`, prominently feature a link to the live GitHub Pages version of your blog.
 
 ## How to Submit
 
