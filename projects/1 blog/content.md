@@ -93,6 +93,23 @@ Now let's dive into the details of Jekyll. You aren't quite tied to creating a w
 Note that Jekyll has [built-in support for SCSS](https://jekyllrb.com/docs/assets/). Any `.scss` files in the `css/` folder will automatically be compiled into CSS that the browser can display.
 
 
+- Github Pages URL structure
+
+Sometimes it’s nice to preview your Jekyll site before you push your gh-pages branch to GitHub. The subdirectory-like URL structure GitHub uses for Project Pages complicates the proper resolution of URLs. In order to assure your site builds properly, use the handy URL filters:
+
+```
+<!-- For styles with static names... -->
+<link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
+<!-- For documents/pages whose URLs can change... -->
+[{{ page.title }}]("{{ page.url | relative_url }}")
+```
+This way you can preview your site locally from the site root on localhost, but when GitHub generates your pages from the gh-pages branch all the URLs will resolve properly.
+You can also use an absolute_url filter. This filter will prepend the url and baseurl value to the input:
+```
+{{ "/assets/style.css" | absolute_url }}
+```
+Both `url` and `baseurl` can be defined in your site’s config file.
+
 ## Starting the project
 
 To get started, accept your assignment on GitHub classroom. This week, please **DO NOT** fork and clone your personal repository, but instead, follow these steps:
@@ -101,7 +118,8 @@ To get started, accept your assignment on GitHub classroom. This week, please **
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 5. Now, you should be looking at a GitHub repository titled `uva-webapps/blog-username`, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project (unlike for the first project, you will commit directly to this repository).
-6. GitHub Pages should already be enabled for the repository. Navigate to the main page of the repository and click "Environments" > "Deployments" and then on the "View deployment" button. You should be able to see the brief text that is in `README.md`. **However,** due to a bug, you may get a 404 error. In that case, just add a slash (`/`) to the URL and it should work!
+6. GitHub Pages should already be enabled for the repository. Navigate to the main page of the repository and click "Environments" > "Deployments" and then on the "View deployment" button. You should be able to see the brief text that is in `README.md`. **However,** due to a bug, you may get a 404 error. In that case, just add a slash (`/`) to the URL and it should work! It might be instructive to follow the step-by-step instructions on [Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/).
+Keep in mind the requirements when doing so, and refer back to the videos when needed!
 
 Now before continuing, two things to do:
 
@@ -110,8 +128,6 @@ Now before continuing, two things to do:
 - Below, submit the link to your https://github.com/uva-webapps/blog-username repository so we can track your progress!
 
 Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory.
-
-It might be instructive to follow the step-by-step instructions on [Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/). Keep in mind the requirements when doing so, and refer back to the videos when needed!
 
 ## Requirements
 
