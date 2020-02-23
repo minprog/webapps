@@ -115,7 +115,7 @@ the link provided in the Heroku credentials list.
 
     and take a look at the `migrations/versions` directory. It will now contain a single migration file with a unique name. This contains rules to "upgrade" or "downgrade" your database. In the method `upgrade`, you will find that a method `create_table` is called to create the `users` table in the database.
 
-- To upgrade your database to the current version, run
+- To upgrade your database to the current version using that first migration, run
 
         $ flask db upgrade
 
@@ -126,7 +126,7 @@ the link provided in the Heroku credentials list.
 
 ### Integrating the admin section
 
-Flask comes with many optional plugins. One of those is `flask-admin`, which generates pages to edit data in the database. Such a generic admin interface can be very useful when starting up a project. Going on, you might decide to create more specialized pages that allow users to add or delete data, but it's great that you don't have to until later!
+Flask comes with many optional plugins. One of those is `flask-admin`, which generates pages to edit data in the database. Such a generic admin interface can be very useful when starting up a project. Going on, you might decide to create more specialized pages that allow users to add or delete data, but it's great that you don't have to until later! Let's add an admin page for the `User` model.
 
 - To add this plugin, first edit `requirements.txt` to add `flask-admin`. Then follow up with
 
@@ -145,7 +145,7 @@ Flask comes with many optional plugins. One of those is `flask-admin`, which gen
 
 - Below the initialization, but before your first route, add the following code to generate your first admin page, which will be linked to your `User` model:
 
-        admin = Admin(app, name='microblog', template_mode='bootstrap3')
+        admin = Admin(app, name='Pinocchio Admin', template_mode='bootstrap3')
         admin.add_view(ModelView(User, db.session))
 
     You can later add additional calls to `add_view` to link more models to your admin interface.
@@ -212,7 +212,7 @@ Beyond these requirements, the design, look, and feel of the website are up to
 you! You're also welcome to add additional features to your website, so long as
 you meet the requirements laid out in the above specification!
 
-> A special note: your neighbor might choose to implement additional features, and you might think that those parts are mandatory to implement. So, before you implement the same features, always take a good look at the requirements above and decide if you really want to implement it the same way!
+> A special note: your neighbor might choose to implement additional features, and you might think that those parts are mandatory to implement. This may not be true! So, before you implement the same features, always take a good look at the requirements above and decide if you really want to implement it the same way!
 
 ## Implementation details
 

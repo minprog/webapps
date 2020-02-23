@@ -1,6 +1,6 @@
 # Lecture 4b: ORMs
 
-![embed](https://player.vimeo.com/video/393269477)
+![embed](https://player.vimeo.com/video/393268804)
 
 - [Notes](https://cs50.harvard.edu/web/notes/4/)
 - Source Code
