@@ -31,7 +31,7 @@ We recommend that you try to meet the following milestones in order:
 
 ### GitHub Classroom
 
-1. [Click here](TBA) to go to the GitHub Classroom page for starting the assignment.
+1. [Click here](https://classroom.github.com/a/DWaZUt_z) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. Now, you should be looking at a GitHub repository titled uva-webapps/pizzaf-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
@@ -139,11 +139,11 @@ Flask comes with many optional plugins. One of those is `flask-admin`, which gen
         from flask_admin import Admin
         from flask_admin.contrib.sqla import ModelView
 
-- **TODO** how to generate secret key and add to ENV
+- Use one of the methods on [Stack Overflow](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask) to generate secret key, and add it to an enviroment variable called `SECRET_KEY`. Then add this line to your apps `application.py` to configure it.
 
         app.secret_key = ENV['SECRET_KEY']
 
-- Below the initialization, but before your first route, add the following code to generate your first admin page, which will be linked to your `User` model:
+- Below the initialization section, but before your first route, add another section to configure the admin interface and generate your first admin page as well, which will be linked to your `User` model:
 
         admin = Admin(app, name='Pinocchio Admin', template_mode='bootstrap3')
         admin.add_view(ModelView(User, db.session))
