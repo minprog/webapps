@@ -139,9 +139,8 @@ Parttime Lente:
         Voorbereidingen:
             Lees de studiewijzer: /syllabus
             Installeer je development tools: /install/choose
-        Colleges:
-            Bekijk College 0: /lectures/git
-            Bekijk College 1: /lectures/html
+            College 0 (Git): /lectures/git
+            College 1 (HTML): /lectures/html
         Project 0:
             Homepage: /projects/homepage
     Module 1:
@@ -149,9 +148,15 @@ Parttime Lente:
             Blog: /projects/blog
     Module 2:
         Voorbereidingen:
-            Bekijk College 2: /lectures/flask
-            Bekijk College 3: /lectures/sql
+            College 2 (Flask): /lectures/flask
+            College 3 (SQL): /lectures/sql
         Project 2:
             Books: /projects/books
         Nodig voor API-deel opdracht:
-            Bekijk College 4: /lectures/orms
+            College 4a (APIs) : /lectures/apis
+    Module 3:
+        Voorbereidingen:
+            College 4b (ORMs): /lectures/orms
+            College 5 (Javascript): /lectures/javascript
+        Project 4:
+            Pizza (Flask): /projects/pizzaf
