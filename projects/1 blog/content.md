@@ -92,23 +92,19 @@ Now let's dive into the details of Jekyll. You aren't quite tied to creating a w
 
 Note that Jekyll has [built-in support for SCSS](https://jekyllrb.com/docs/assets/). Any `.scss` files in the `css/` folder will automatically be compiled into CSS that the browser can display.
 
+## Intermezzo: Github Pages URL structure
 
-- Github Pages URL structure
+It's nice to preview your Jekyll site before you push your `gh-pages` branch to GitHub (which may sometimes be a bit slow to pick up changes). However, you may run into problems getting your internal links right, because on GitHub, your site will live inside a directory, while on your computer, it will not. In order to assure your site builds properly, you should use the `relative_url` filter for your links:
 
-Sometimes it’s nice to preview your Jekyll site before you push your gh-pages branch to GitHub. The subdirectory-like URL structure GitHub uses for Project Pages complicates the proper resolution of URLs. In order to assure your site builds properly, use the handy URL filters:
+    For styles with static names:
+    
+      <link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
+    
+    For documents/pages whose URLs can change:
+    
+      [{{ page.title }}]("{{ page.url | relative_url }}")
 
-```
-<!-- For styles with static names... -->
-<link href="{{ "/assets/css/style.css" | relative_url }}" rel="stylesheet">
-<!-- For documents/pages whose URLs can change... -->
-[{{ page.title }}]("{{ page.url | relative_url }}")
-```
-This way you can preview your site locally from the site root on localhost, but when GitHub generates your pages from the gh-pages branch all the URLs will resolve properly.
-You can also use an absolute_url filter. This filter will prepend the url and baseurl value to the input:
-```
-{{ "/assets/style.css" | absolute_url }}
-```
-Both `url` and `baseurl` can be defined in your site’s config file.
+The filter will prepend your site's `url` value to a link. The value of `url` can be defined in your site's config file.
 
 ## Starting the project
 
