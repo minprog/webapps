@@ -38,8 +38,7 @@ Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (
 | Project 0 | Homepage  | 1 week  | woensdag 12 februari |  
 | Project 1 | Blog      | 1 week  | woensdag 19 februari |  
 | Project 2 | Books     | 2 weken | woensdag  4 maart    |  
-| Project 3 | FoodLover | 1 week  | woensdag 11 maart    |  
-| Project 4 | Flack     | 2 weken | woensdag 25 maart    |  
+| Project 3 | Pizza     | 3 weken | woensdag 25 maart    |  
 | Portfolio |           |         | woensdag 25 maart    |  
 
 
