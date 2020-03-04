@@ -176,6 +176,8 @@ requirements:
   name, and email address. Customers should then be able to log in and log out
   of your website. To implement registration and login, you must use [Flask-Login](https://flask-login.readthedocs.io/en/latest/).
 
+* **JavaScript**: Enhance your template for register with some JavaScript in such a way that it prevents submission of your registration form if the inputted username is already taken, letting the user know, as via alert or via a Bootstrap alert or validation. Take a look at the "to-do list" example from lecture and think how you might adapt some parts for this purpose.
+
 * **Shopping Cart**: Once logged in, users should see a representation of the
   restaurant's menu, where they can add items (along with toppings or extras, if
   appropriate) to their virtual "shopping cart." The contents of the shopping
