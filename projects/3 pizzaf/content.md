@@ -70,7 +70,8 @@ the link provided in the Heroku credentials list.
 > Note: if Adminer gives you errors, this is because CS50's version is not compatible with Postgres 12. You can create a Postgres 11 database on Heroku using the following command (which requires the installation of the Heroku CLI):
 > 
 >     heroku addons:create heroku-postgresql --version=11 --app=YOUR_APP_NAME_ON_HEROKU
-
+>
+> But first try creating and using the database according to the instructions above!
 
 ### Kickstarting the project
 
