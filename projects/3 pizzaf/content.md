@@ -62,6 +62,8 @@ but for this project, we'll use a database hosted by
    page.
    At Adminer you can use "SQL opdracht"/"SQL command" to try out a query.
 
+> Note: in this assignment, you should not use Adminer to create database tables etc! You are supposed to use migrations, on which you can find more information below.
+
 Alternatively, if you install
 [PostgreSQL](https://www.postgresql.org/download/) on your own computer, you
 should be able to run `psql URI` on the command line, where the `URI` is
@@ -79,7 +81,7 @@ the link provided in the Heroku credentials list.
 
 - `cd` to a directory where you want to put your project.
 
-- Clone your `uva-webapps/books-username` repository from GitHub and navigate into this directory.
+- Clone your `uva-webapps/pizzaf-username` repository from GitHub and navigate into this directory.
 
 - Run
 
@@ -142,9 +144,11 @@ Flask comes with many optional plugins. One of those is `flask-admin`, which gen
         from flask_admin import Admin
         from flask_admin.contrib.sqla import ModelView
 
-- Use one of the methods on [Stack Overflow](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask) to generate secret key, and add it to an enviroment variable called `SECRET_KEY`. Then add this line to your apps `application.py` to configure it.
+- Use one of the methods on [Stack Overflow](https://stackoverflow.com/questions/34902378/where-do-i-get-a-secret-key-for-flask) to generate secret key, and add it to an **enviroment variable** called `SECRET_KEY`. Then add this line to your apps `application.py` to configure it.
 
-        app.secret_key = ENV['SECRET_KEY']
+        app.secret_key = os.environ['SECRET_KEY']
+
+	> Note: do not put your secret key directly in the code! Secrets should never be put in your code repository, even if the repository isn't public.
 
 - Below the initialization section, but before your first route, add another section to configure the admin interface and generate your first admin page as well, which will be linked to your `User` model:
 
