@@ -10,7 +10,7 @@ grades:
             bootstrap: boolean
             readme: boolean
             points: integer
-        calculation: (on_github == -1 && gh_pages == -1 && four_htmls == -1 && scss == -1 && mobile == -1 && bootstrap == -1 && readme == -1) && (points > 0 && (points.to_i.to_f/6*9+1).round(1) || -1) || 0
+        calculation: (on_github == -1 && gh_pages == -1 && four_htmls == -1 && scss == -1 && mobile == -1 && bootstrap == -1 && readme == -1) && (points.present? && (points.to_i.to_f/6*9+1).round(1) || -1) || 0
         hide_calculated: true
     books:
         type: float
