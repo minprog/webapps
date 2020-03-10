@@ -232,7 +232,7 @@ The following remarks place a few constraints on your project's implementation:
   model for pizzas, and how do you calculate the ultimate price of a pizza? How
   will you make the custom add-ons for the subs work?
 
-* You should not use jQuery. Even if you use it for a Personal Touch, you should show off your newly learning ES6 skills from lecture!
+* You should not use jQuery. When you consider JavaScript for implementing a Personal Touch, you should show off your newly learning ES6 skills from lecture!
 
 * You should not use raw SQL queries, but instead always use the SQLAlchemy ORM to interact with the database. In very special circumstances it might be OK to write a custom query, but in general this should not be necessary and is not allowed for this assignment.
 
