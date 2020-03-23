@@ -9,7 +9,7 @@ First, create a GitHub account. On GitHub, developers from all over the world sh
 
 ## Ed
 
-Then you can registeren on Ed. This is an online forum for Q&A (questions and answers) about this course. There, you'll find others who are taking the course and might just be able to help you with your questions.
+Then you can register on Ed. This is an online forum for Q&A (questions and answers) about this course. There, you'll find others who are taking the course and might just be able to help you with your questions.
 
 <https://us.edstem.org/join/rhVAaC>
 
