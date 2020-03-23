@@ -12,15 +12,17 @@ Before your do anything else, watch and understand these video lectures:
 - Lecture 0, [Git](/lectures/git)
 - Lecture 1, [HTML and CSS](/lectures/html)
 
+If you have any questions about the lectures, please post a question!
+
 ## Getting Started
 
 In this course, we'll use GitHub Classroom to distribute projects and collect submissions. To begin Project 0:
 
-1. [Click here](https://classroom.github.com/a/Eg5uW9yi) to go to the GitHub Classroom page for starting the assignment.
+1. [Click here](https://classroom.github.com/a/_ZZS7O_t) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. Now, you should be looking at a GitHub repository titled uva-webapps/homepage-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project. You will commit directly to this repository.
-5. GitHub Pages should already be enabled for the repository. Navigate to the main page of the repository and click “environment” > “Deployments” and then on the “View deployment” button. You should see the URL at which your GitHub pages website will (soon) live! But first, we'll need to add some HTML to your repository.
+5. Because we added a git branch called `"gh-pages"`, GitHub Pages should already be enabled for the repository. Navigate to the main page of the repository and click "environment" > "Deployments" and then on the "View deployment" button. You should see the URL at which your GitHub pages website will (soon) live! But first, we'll need to add some HTML to your repository.
 
 ### Your First Webpage
 
@@ -30,12 +32,12 @@ Open "Git Bash" on Windows or the "Terminal" on macOS.
 
 `cd` to a directory where you want to put your project and run
 
-    git clone repository_url project0
+    git clone repository_url homepage
 
 where `repository_url` is the link you just copied from GitHub. You will be prompted for your GitHub username and password
 
 
-Go ahead and run cd project0 to enter your repository. Now, run
+Go ahead and run `cd homepage` to enter your repository. Now, run
 
     touch index.html
 
