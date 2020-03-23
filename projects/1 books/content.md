@@ -24,17 +24,21 @@ Before your do anything else, watch and understand these video lectures:
 - Lecture 2, [Flask](/lectures/flask)
 - Lecture 3, [SQL](/lectures/sql)
 
+If you have any questions about the lectures, please post a question!
+
 ## Getting Started
 
 ### GitHub Classroom
 
 We’ll again use GitHub Classroom to distribute projects and collect submissions. To begin Project 1:
 
-1. [Click here](https://classroom.github.com/a/6iQExj1j) to go to the GitHub Classroom page for starting the assignment.
+1. [Click here](https://classroom.github.com/a/gj0uwP51) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. Now, you should be looking at a GitHub repository titled uva-webapps/books-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
 5. Submit the link to your project's GitHub repository below.
+
+> This time, your git repository doesn't have a `gh-pages` branch, but a default `master` branch instead. This is because GitHub can't host websites created with Flask. For now, you'll just run your website locally, on your own computer. Later, you might choose to host your website online, for other people to see!
 
 ### PostgreSQL
 
