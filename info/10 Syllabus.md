@@ -14,7 +14,14 @@ The course is quite self-contained, but you might need some help here and there 
 
 This course has four programming projects, from a first personal homepage to a fully featured food ordering website. Each project has a few video lectures that you should use to prepare. We expect that you complete all assignments using techniques and examples from those lectures!
 
-It can take you up to 7-8 weeks in parttime to fully finish the course, given that you have a bit of experience using a **terminal** and you know your **Python basics**. But you do not need experience with creating websites! Just try it, and make sure you carefully study the video lectures and notes.
+It can take you up to 7-8 weeks in parttime to fully finish the course, given that you have a bit of experience using a **terminal** and you know your **Python basics**. But you do not need experience with creating websites! Just try it, and make sure you carefully study the video lectures and notes. A suggested schedule:
+
+| module | might take you |
+| -----: | -------------: |
+|      1 |   about 1 week |
+|      2 |   about 1 week |
+|      3 |  about 2 weeks |
+|      4 |  about 2 weeks |
 
 When you're ready to start, head to [Getting Started](/start)!
 
