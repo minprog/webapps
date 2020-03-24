@@ -1,4 +1,4 @@
-# Web App Studio
+# Web App Studio<br><small>University of Amsterdam, Spring 2020</small>
 
 ## About this course
 
