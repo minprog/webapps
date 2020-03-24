@@ -10,7 +10,7 @@ If you're a teacher and you'd like to adopt this course for your students and ne
 
 ## How to take this course
 
-The course is quite self-contained, but you might need some help here and there in case you can stuck. Ask your fellow students! Likely things that you may get stuck on are installing tools, configuring your websites and understanding the complex frameworks that you'll need to use to build website. But with a little help, you should be quite alright!
+The course is quite self-contained, but you might need some help here and there in case you get stuck. Ask your fellow students! Likely things that you may get stuck on are installing tools, configuring your websites and understanding the complex frameworks that you'll need to use to build website. But with a little help, you should be quite alright!
 
 It can take you up to 7-8 weeks in parttime to fully finish the course, given that you have a bit of experience using a **terminal** and you know your **Python basics**. But you do not need experience with creating websites! Just try it, and make sure you carefully study the video lectures and notes.
 
