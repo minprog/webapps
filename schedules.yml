@@ -160,3 +160,30 @@ Parttime Lente:
             College 5 (Javascript): /lectures/javascript
         Project 3:
             Pizza (Flask): /projects/pizzaf
+
+Fulltime Lente:
+    Module 0:
+        Voorbereidingen:
+            Lees de studiewijzer: /syllabus
+            Installeer je development tools: /install/choose
+            College 0 (Git): /lectures/git
+            College 1 (HTML): /lectures/html
+        Project 0:
+            Homepage: /projects/homepage
+    Module 1:
+        Project 1:
+            Blog: /projects/blog
+    Module 2:
+        Voorbereidingen:
+            College 2 (Flask): /lectures/flask
+            College 3 (SQL): /lectures/sql
+        Project 2:
+            Books: /projects/books
+        Nodig voor API-deel opdracht:
+            College 4a (APIs) : /lectures/apis
+    Module 3:
+        Voorbereidingen:
+            College 4b (ORMs): /lectures/orms
+            College 5 (Javascript): /lectures/javascript
+        Project 3:
+            Pizza (Flask): /projects/pizzaf
