@@ -14,6 +14,8 @@ The course is quite self-contained, but you might need some help here and there 
 
 It can take you up to 7-8 weeks in parttime to fully finish the course, given that you have a bit of experience using a **terminal** and you know your **Python basics**. But you do not need experience with creating websites! Just try it, and make sure you carefully study the video lectures and notes.
 
+When you're ready to start, head to [Getting Started](/start)!
+
 ## Acknowledgements
 
 We thank the following organizations and people for providing such great content and tools! Their hard work allows us to focus on our students and less on development of teaching materials.
