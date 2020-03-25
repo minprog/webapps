@@ -3,17 +3,14 @@
 > "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
 
 
-## Docenten
-
-Je docenten zijn Martijn Stegeman (coördinator), Marijn Jansen, Sam Verhezen, Emma Hokken, Quinten van der Post en Lotte Heek.
-
-
 ## Voorkennis
 
 Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
-## Contact
+## Docenten en contact
+
+Je docenten zijn Martijn Stegeman (coördinator), Marijn Jansen, Sam Verhezen, Emma Hokken, Quinten van der Post en Lotte Heek.
 
 - Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365)
 - Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
