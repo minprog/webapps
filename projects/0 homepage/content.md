@@ -2,8 +2,18 @@
 
 ## Objectives
 
-* Become more comfortable with HTML and CSS to design and style webpages.
+* Become comfortable with HTML and CSS to design and style webpages.
 * Learn to use SCSS to write more complex stylesheets for your webpages.
+
+## What you need to find out
+
+How to:
+
+* write HTML tags to structure a page
+* use CSS and SCSS to style a page
+* use git to manage to project's files
+* use GitHub to host your website
+* work with **sass** in the terminal
 
 ## Preparations
 

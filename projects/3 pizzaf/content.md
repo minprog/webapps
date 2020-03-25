@@ -6,6 +6,16 @@
 * Gain experience with relational database design.
 * Practice with Flask migrations and admin pages.
 
+## What you need to find out
+
+How to:
+
+* use migrations instead of designing your database in Adminer
+* use `requirements.txt` to manage your project's dependencies
+* avoid using JQuery but instead write plain Javascript 6
+* use objects instead of writing SQL directly
+* provide your own API in your project
+
 ## Overview
 
 In this project, you'll build an web application for handling a pizza
