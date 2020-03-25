@@ -1,11 +1,11 @@
-# Parttime Web App Studio <br><small>Studiewijzer, Lente 2020</small>
+# Fulltime Web App Studio <br><small>Studiewijzer, Lente 2020</small>
 
 > "This course picks up where Harvard College’s CS50 leaves off, diving more deeply into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Flask, Django, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, students learn to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku. By semester’s end, students emerge with knowledge and experience in principles, languages, and tools that empower them to design and deploy applications on the Internet." --- CSCI S-33a at Harvard.
 
 
 ## Docenten
 
-Je docenten zijn Martijn Stegeman (coördinator), Rebecca Davidsson en Jasper den Duijf.
+Je docenten zijn Martijn Stegeman (coördinator), Marijn Jansen, Sam Verhezen, Emma Hokken, Quinten van der Post en Lotte Heek.
 
 
 ## Voorkennis
@@ -17,7 +17,7 @@ Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze 
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. minimaal vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. minimaal vijf goedwerkende websites volgens onze beschrijving implementeert en inlevert,
 1. de websites verbetert op basis van gevraagde en ongevraagde feedback,
 1. actief deelneemt aan de werkgroepen,
 1. regelmatig vragen stelt aan de assistenten en docenten, en
@@ -26,29 +26,33 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 ## Eindcijfer
 
-Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Voor de **opdrachten** kun je punten verdienen, tot een maximum van 30 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Voor de **opdrachten** kun je punten verdienen, tot een maximum van 24 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
 
 
 ## Kalender
 
 Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (volgens de gegeven specificaties). Daarnaast is de portfolio-deadline vermeld voor het inleveren van de verbeterde versies van deze projecten.
 
-| Opdracht  | Naam      | Duur    | Deadline             |  
-| --------- | --------- | ------- | -------------------- |  
-| Project 0 | Homepage  | 1 week  | woensdag 12 februari |  
-| Project 1 | Blog      | 1 week  | woensdag 19 februari |  
-| Project 2 | Books     | 2 weken | woensdag  4 maart    |  
-| Project 3 | Pizza     | 3 weken | woensdag 25 maart    |  
-| Portfolio |           |         | woensdag 25 maart    |  
+| Opdracht  | Duur        | Deadline           |
+| --------- | ----------- | ------------------ |
+| Homepage  | 3 werkdagen | woensdag 1 april   |
+| Blog      | 3 werkdagen | maandag 6 april    |  
+| Books     | 6 werkdagen | dinsdag 14 april   |  
+| Pizza     | 7 werkdagen | donderdag 23 april |  
+| Portfolio | 1 werkdag   | vrijdag 24 april   |  
+
+Deze deadlines zijn **niet hard**, om studenten de gelegenheid te geven tot rust te komen wanneer nodig en rekening te houden met de realiteit van het niet altijd even hard kunnen werken.
+
+Na dit vak is normaal een vakantie ingepland (25 april t/m 5 mei). Je kunt deze gebruiken om wat uit te lopen. De beschikbaarheid van assistentie in die periode is echter niet besproken, dus het is geen "standaard" aanbod, het is echt puur bedoeld om de mentale gezondheid ruimte te geven.
 
 
 ## Becijfering van projecten 0--3
 
 Om punten te krijgen voor elk project moet je na afronding de code committen en pushen naar GitHub, en de opdracht laten aftekenen. Aftekenen betekent dat de code daarna in principe klaar is voor beoordeling. Het aftekenen is ook een logisch moment om feedback te vragen aan de assistent, hoewel dit ook op andere momenten kan.
 
-Je moet vóór de definitieve beoordeling nog een code review doen met een medestudent, waarbij je elkaar advies en feedback geeft op het project, en dan met name de code zelf. Hiervoor wordt een dag aangewezen. De samenvatting van de feedback die je *krijgt* moet je zelf noteren en in de repository achterlaten in een bestand genaamd `REVIEW.md`.
+Je moet vóór de definitieve beoordeling nog een code review doen met een medestudent, waarbij je elkaar advies en feedback geeft op het project, en dan met name de code zelf. Hiervoor wordt een systeem aangeboden. De samenvatting van de feedback die je *krijgt* en wat je er mee *doet* moet je zelf noteren en in de repository achterlaten in een bestand genaamd `REVIEW.md`.
 
-De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hiervoor wordt een speciale "portfolio"-deadline aangewezen (zie boven). Elk project krijgt een score op basis van het volgende schema:
+De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hiervoor wordt een speciale "portfolio"-deadline aangewezen (zie boven, en ook deze deadline is niet hard). Elk project krijgt een score op basis van het volgende schema:
 
 | ptn | omschrijving                                                                      |  
 | :-: | --------------------------------------------------------------------------------- |  
@@ -60,7 +64,7 @@ De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hie
 |  1  | Er is duidelijk aandacht besteed aan het project, maar het werkt niet echt.       |  
 |  0  | Niet ingestuurd of echt incompleet.                                               |  
 
-In alle gevallen is er ruimte voor kleine fouten en vergissingen. Alle projecten van 0--4 wegen even zwaar in het eindcijfer.
+In alle gevallen is er ruimte voor kleine fouten en vergissingen. Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
 
 
 ## Samenwerken
