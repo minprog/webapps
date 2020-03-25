@@ -16,7 +16,7 @@ If you have any questions about the lectures, please post a question!
 
 ## Getting Started
 
-In this course, we'll use GitHub Classroom to distribute projects and collect submissions. To begin Project 0:
+In this course, we'll use GitHub Classroom to distribute project starter files. To begin this project:
 
 1. [Click here](https://classroom.github.com/a/_ZZS7O_t) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.

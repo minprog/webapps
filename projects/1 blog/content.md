@@ -108,7 +108,7 @@ The filter will prepend your site's `url` value to a link. The value of `url` ca
 
 ## Starting the project
 
-To get started, accept your assignment on GitHub classroom. This week, please **DO NOT** fork and clone your personal repository, but instead, follow these steps:
+To get started, accept your assignment on GitHub classroom and initialize your project:
 
 1. [Click here](https://classroom.github.com/a/6Zf8e6MY) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
