@@ -103,9 +103,3 @@ subject to the following requirements:
 
 Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
 be introduced in [Lecture 1](/lectures/html).
-
-## How to Submit
-
-1. Using Git, push your work to GitHub. Ask for help if needed!
-2. Submit the link to your project's GitHub repository below (the one with uva-webapps/homepage-username).
-3. On (or before) the date of the deadline, show your working website to one of the staff.

@@ -39,7 +39,6 @@ We recommend that you try to meet the following milestones in order:
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
 3. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 4. Now, you should be looking at a GitHub repository titled uva-webapps/pizzaf-username, where username is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
-5. Submit the link to your project's GitHub repository below.
 
 
 ### PostgreSQL
@@ -258,10 +257,3 @@ Well, this is indeed a big challenge and a fundamental part of this project. For
 It's up to you to decide what a "special" pizza means, and to implement it
 accordingly. It could be one particular set of toppings, allowing up to 5
 different types of toppings, or something else entirely!
-
-
-## How to Submit
-
-1. Using Git, push your work to GitHub. Ask for help if needed!
-9. Submit the link to your project's GitHub repository below (the one with uva-webapps/pizzaf-username).
-10. On (or right after) the date of the deadline, show your working website to one of the staff.

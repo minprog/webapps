@@ -117,11 +117,7 @@ To get started, accept your assignment on GitHub classroom. This week, please **
 6. GitHub Pages should already be enabled for the repository. Navigate to the main page of the repository and click "Environments" > "Deployments" and then on the "View deployment" button. You should be able to see the brief text that is in `README.md`. **However,** due to a bug, you may get a 404 error. In that case, just add a slash (`/`) to the URL and it should work! It might be instructive to follow the step-by-step instructions on [Convert an HTML site to Jekyll](https://jekyllrb.com/tutorials/convert-site-to-jekyll/).
 Keep in mind the requirements when doing so, and refer back to the videos when needed!
 
-Now before continuing, two things to do:
-
-- Bookmark your website's URL so you can refer to it while developing your Jekyll blog.
-
-- Below, submit the link to your https://github.com/uva-webapps/blog-username repository so we can track your progress!
+Now before continuing, bookmark your website's URL so you can refer to it while developing your Jekyll blog.
 
 Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory.
 
@@ -154,7 +150,3 @@ to you, subject to the following requirements:
   contained in each file, and (optionally) any other additional information the
   staff should know about your project.
 * Also in `README.md`, prominently feature a link to the live GitHub Pages version of your blog.
-
-## How to Submit
-
-You should have submitted your repository's URL while starting the project, in the "Starting the project" section, above!
