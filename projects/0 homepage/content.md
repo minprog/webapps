@@ -16,7 +16,7 @@ If you have any questions about the lectures, please post a question!
 
 ## Getting Started
 
-In this course, we'll use GitHub Classroom to distribute projects and collect submissions. To begin Project 0:
+In this course, we'll use GitHub Classroom to distribute project starter files. To begin this project:
 
 1. [Click here](https://classroom.github.com/a/_ZZS7O_t) to go to the GitHub Classroom page for starting the assignment.
 2. Click the green "Accept this assignment" button. This will create a GitHub repository for your project. Recall that a git repository is just a location where your code will be stored and which can be used to keep track of changes you make to your code over time.
@@ -103,9 +103,3 @@ subject to the following requirements:
 
 Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
 be introduced in [Lecture 1](/lectures/html).
-
-## How to Submit
-
-1. Using Git, push your work to GitHub. Ask for help if needed!
-2. Submit the link to your project's GitHub repository below (the one with uva-webapps/homepage-username).
-3. On (or before) the date of the deadline, show your working website to one of the staff.
