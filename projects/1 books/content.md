@@ -6,6 +6,16 @@
 * Gain experience with Flask.
 * Learn to use SQL to interact with databases.
 
+## What you need to find out
+
+How to:
+
+* make Flask work using the terminal and host your website
+* read and write JSON
+* interact with and design your database via Adminer
+* write SQL queries to get data from the database
+* interface with someone's published API
+
 ## Overview
 
 In this project, you'll build a book review website. Users will be able to
