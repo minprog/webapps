@@ -23,6 +23,7 @@ Before your do anything else, watch and understand these video lectures:
 
 - Lecture 2, [Flask](/lectures/flask)
 - Lecture 3, [SQL](/lectures/sql)
+- Lecture 4a, [APIs](/lectures/apis) (you can watch this later in the assignment)
 
 If you have any questions about the lectures, please post a question!
 
