@@ -13,6 +13,13 @@ Je docenten zijn Martijn Stegeman (coördinator), Marijn Jansen, Sam Verhezen, E
 Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze cursus start.
 
 
+## Contact
+
+- Voor vragen over de stof, hulp met programmeren, technische ondersteuning, plaats je zoveel mogelijk een vraag op [Ed](https://us.edstem.org/courses/365)
+- Als je niet weet hoe je een vraag moet stellen of je weet niet hoe je moet beginnen met iets, maak dan een afspraak voor video-assistentie via [Calendly](http://calendly.com/app-studio/assistentie).
+- Voor vragen over regeltjes, het maken van persoonlijke afspraken en het op de hoogte houden van de docenten over het later inleveren stuur je een mail naar <help@mprog.nl>.
+
+
 ## Verwachtingen
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
