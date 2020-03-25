@@ -37,7 +37,7 @@ If you have any questions about the lectures, please post a question!
 
 We recommend that you try to meet the following milestones in order:
 
-* Complete the Menu, Adding Items, and Registration/Login/Logout steps.
+* Complete the Menu, Adding Items, Registration/Login/Logout and Javascript steps.
 * Complete the Shopping Cart and Placing an Order steps.
 * Complete the Viewing Orders and Personal Touch steps.
 
