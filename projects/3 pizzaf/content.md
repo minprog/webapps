@@ -6,7 +6,6 @@
 * Gain experience with relational database design.
 * Practice with Flask migrations and admin pages.
 
-
 ## Overview
 
 In this project, you'll build an web application for handling a pizza
@@ -17,7 +16,12 @@ been placed.
 
 ## Preparations
 
-No new lectures for this assignment!
+Before your do anything else, watch and understand these video lectures:
+
+- Lecture 4b, [ORMs](/lectures/orms)
+- Lecture 5, [Javascript](/lectures/javascript)
+
+If you have any questions about the lectures, please post a question!
 
 ## Milestones
 
