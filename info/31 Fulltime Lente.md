@@ -30,7 +30,11 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 ## Eindcijfer
 
-Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen. Voor de **opdrachten** kun je punten verdienen, tot een maximum van 24 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
+
+**50%** --- Voor de **opdrachten** kun je punten verdienen, tot een maximum van 24 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+
+**50%** --- Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
 
 
 ## Kalender
@@ -47,7 +51,25 @@ Voor de **opdrachten** gelden de volgende deadlines voor het werkend inleveren (
 
 Deze deadlines zijn **niet hard**, om studenten de gelegenheid te geven tot rust te komen wanneer nodig en rekening te houden met de realiteit van het niet altijd even hard kunnen werken.
 
-Na dit vak is normaal een vakantie ingepland (25 april t/m 5 mei). Je kunt deze gebruiken om wat uit te lopen. De beschikbaarheid van assistentie in die periode is echter niet besproken, dus het is geen "standaard" aanbod, het is echt puur bedoeld om de mentale gezondheid ruimte te geven.
+Na dit eerste deel is normaal een vakantie ingepland (25 april t/m 5 mei). Je kunt deze gebruiken om wat uit te lopen. De beschikbaarheid van assistentie in die periode is echter niet besproken, dus het is geen "standaard" aanbod, het is echt puur bedoeld om de mentale gezondheid ruimte te geven.
+
+Voor het **eindproject** zijn enkele milestones gespecificeerd. 
+
+| Onderdeel     | Week | Deadline |  
+| ------------- | ---: | -------- |  
+| Proposal      |    4 | NNB      |  
+| Design Doc    |    5 | NNB      |  
+| Alpha Version |    6 | NNB      |  
+| Beta Version  |    7 | NNB      |  
+
+In de **laatste week** (25 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+
+| Onderdeel        | Deadline |  
+| ---------------- | -------- |  
+| Final Product    | NNB      |  
+| Code reviews     | NNB      |  
+| Screencast       | NNB      |  
+| Eindpresentaties | NNB      |  
 
 
 ## Becijfering van projecten 0--3
@@ -69,6 +91,23 @@ De eindbeoordeling zal plaatsvinden na de laatste deadline van de projecten. Hie
 |  0  | Niet ingestuurd of echt incompleet.                                               |  
 
 In alle gevallen is er ruimte voor kleine fouten en vergissingen. Alle projecten van 0--3 wegen even zwaar in het eindcijfer.
+
+
+## Becijfering van het eindproject
+
+Je project moet uiteindelijk op GitHub staan, met in de repository de code voor het project en de bijbehorende documentatie. Het project moet voldoen aan minimumeisen zoals gesteld in de instructies aldaar, en moet een zodanige hoeveelheid code en documentatie bevatten dat beoordeling goed mogelijk is (naar oordeel van de docent).
+
+Het cijfer voor dit project zal worden bepaald met behulp van de volgende criteria, die allemaal ongeveer even zwaar tellen. Daarbij is het mogelijk voor elke student om zelf extra nadruk te leggen op bepaalde aspecten. Hiervan worden hieronder steeds voorbeelden gegeven.
+
+*Code* --- In hoeverre is de code zorgvuldig ontworpen en leesbaar? We kijken naar codekwaliteit en database-ontwerp. Te denken valt aan commentaar en naamgeving, organisatie van de code in classes en files, en voor de database duplicatie en de mate waarin zoekopdrachten efficiënt kunnen worden uitgevoerd.
+
+*Interactieontwerp* --- In hoeverre is het product goed bruikbaar voor "anderen"? Er wordt gekeken naar een coherente uitwerking van een idee, maar vooral naar de wijze waarop de website een goede ervaring geeft voor nieuwe en bestaande gebruikers. Te denken valt aan eenvoudig kunnen "ontdekken" van functionaliteit, layout die eenvoudige bediening mogelijk maakt, goede bruikbaarheid voor mensen met een fysieke beperking.
+
+*Repository* --- In hoeverre is de repository compleet en netjes? We kijken naar het gebruik van de repository én van GitHub zoals dit bedoeld is. Te denken valt aan de indeling van de repository, de vindbaarheid van documentatie en onderdelen van de code, maar ook naar de regelmaat van committen en pushen, en het netjes afvinken van "issues" op GitHub. Een groot probleem is het "opnieuw beginnen" van een repository. Dit moet te allen tijde worden voorkomen.
+
+*Projectdocumentatie* --- In hoeverre is het project goed gedocumenteerd? We kijken naar de algemene beschrijving van het project in de `README.md`, de screencast, de technische beschrijving in `DESIGN.md` en de beschrijving van de voortgang in `PROCESS.md`. Te denken valt aan duidelijk geschreven teksten en nette diagrammen, expliciete links naar belangrijke onderdelen van de code en het up-to-date zijn met het daadwerkelijke eindproduct.
+
+> **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
 
 ## Samenwerken
