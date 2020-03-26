@@ -21,10 +21,11 @@ Je docenten zijn Martijn Stegeman (coördinator), Marijn Jansen, Sam Verhezen, E
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. minimaal vijf goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. vijf goedwerkende websites volgens onze beschrijving implementeert en inlevert,
 1. de websites verbetert op basis van gevraagde en ongevraagde feedback,
 1. actief deelneemt aan de werkgroepen,
-1. regelmatig vragen stelt aan de assistenten en docenten, en
+1. regelmatig vragen stelt aan de assistenten en docenten,
+1. vragen beantwoordt van andere studenten,
 1. actief deelneemt aan onderlinge code reviews.
 
 
@@ -32,9 +33,11 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
 
-**50%** --- Voor de **opdrachten** kun je punten verdienen, tot een maximum van 24 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
+**45%** --- Voor de **opdrachten** kun je punten verdienen, tot een maximum van 24 voor de cursus. Je programma's worden kritisch bekeken en op basis hiervan krijg je punten voor de kwaliteit van de inzending. Vóór die tijd heb je uitgebreid feedback gekregen en gevraagd.
 
-**50%** --- Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
+**45%** --- Voor het **eindproject** krijg je een cijfer dat wordt opgebouwd uit diverse onderdelen: kwaliteit van de code, van het ontwerp, maar ook hoe systematisch je hebt gewerkt en documentatie hebt bijgehouden. Je moet minimaal een 5,5 halen om het vak af te ronden.
+
+**10%** --- Voor **aantoonbare participatie**, andere studenten helpen (via Ed), vragen stellen (via Ed), code reviews doen en regelmatig contact onderhouden met mentor en assistenten.
 
 
 ## Kalender
