@@ -1,6 +1,6 @@
 # Linux: Installing
 
-For those using Linux install Git, Python 3 (3.6 or higher) and [Sass](https://sass-lang.com/install) using your package manager.
+For those using Linux, install Git, Python 3 (3.6 or higher) and [Sass](https://sass-lang.com/install) using your package manager.
 
 ## Troubleshooting
 
