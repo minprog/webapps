@@ -53,6 +53,37 @@ Some parts that you should describe here:
 - a list of database tables and fields (and their types) if you will use a database
 
 
+<div class="row">
+<div class="col-xs-6 col-md-3">
+<a href="/course/milestones/proposal/screens-proposal.png" class="thumbnail">
+![](screens-proposal.png)
+Example sketch for a mobile app
+</a>
+</div>
+<div class="col-xs-6 col-md-3">
+<a href="/course/milestones/proposal/sketch.jpg" class="thumbnail">
+![](sketch.jpg)
+Example sketch for a data visualization
+</a>
+</div>
+</div>
+
+- Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature. Yes, you will do a lot of sketching! This is required.
+
+- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
+
+## Tips for sketching
+
+- [Prototyping in Keynote](https://designcode.io/sketch-keynote). You can use Keynote on Mac, but you can also create a free account on [iCloud](https://www.icloud.com) and use it online. This allows you to make very interactive prototype without much effort.
+
+- [Marvel](https://marvelapp.com) is a fairly advanced prototyping website. It may take more time to get used to.
+
+- [Wireframe.cc](https://wireframe.cc) is a very simple prototyping tool. Easy to get started! You can save each page as a separate wireframe and share with anyone. However, it's not possible (for free) to create an account to save your designs for later editing etc. That should not really be a problem for one week.
+
+Do make sure that you use realistic content in your sketches! Google a few images, write real texts and make sure it gives a good impression of what you want to make.
+
+
+
 ## Repository
 
 Save your design document as **DESIGN.md** in the root of your GitHub

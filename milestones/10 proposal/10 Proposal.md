@@ -42,42 +42,19 @@ Write a brief statement, four lines of text, about the **problem** (not the solu
 
 In all cases, you should be able to define a specific target audience or a specific categorization of your proposed web application. Include that, too.
 
-## Solution
+## Solution sketch
 
-Describe your solution in full detail.
+Describe your solution in moderate detail. You are sketching the "user experience": the situation that a user might be in and of which using your website is a part.
 
-- **Summarize** your idea in a single sentence, connecting it to the problem that you have defined.
+> You should not use a formal sketching app (like a "wireframing" tool). This will be your next step. For now, draw by hand, doodle a little bit, throw away, start again and finally draw your basic sketch by hand.
 
-- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions, and include concrete examples of data. Your sketches have to be complete and neat!
+- **Summarize** your idea in one or two sentences, connecting it to the problem that you have defined. "This application will..."
 
-<div class="row">
-<div class="col-xs-6 col-md-3">
-<a href="/course/milestones/proposal/screens-proposal.png" class="thumbnail">
-![](screens-proposal.png)
-Example sketch for a mobile app
-</a>
-</div>
-<div class="col-xs-6 col-md-3">
-<a href="/course/milestones/proposal/sketch.jpg" class="thumbnail">
-![](sketch.jpg)
-Example sketch for a data visualization
-</a>
-</div>
-</div>
+- Include a **visual sketch** of what the final product will look like for the user; if you envision the application to have multiple screens, sketch these all out separately. Clearly specify the possible user interactions (click on button, move to next page), and include concrete examples of contents. Your sketches have to be complete and neat!
 
-- Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature. Yes, you will do a lot of sketching! This is required.
+	![embed](https://www.youtube.com/embed/j0vP77s_bXc)
 
-- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
-
-## Tips for sketching
-
-- [Prototyping in Keynote](https://designcode.io/sketch-keynote). You can use Keynote on Mac, but you can also create a free account on [iCloud](https://www.icloud.com) and use it online. This allows you to make very interactive prototype without much effort.
-
-- [Marvel](https://marvelapp.com) is a fairly advanced prototyping website. It may take more time to get used to.
-
-- [Wireframe.cc](https://wireframe.cc) is a very simple prototyping tool. Easy to get started! You can save each page as a separate wireframe and share with anyone. However, it's not possible (for free) to create an account to save your designs for later editing etc. That should not really be a problem for one week.
-
-Do make sure that you use realistic content in your sketches! Google a few images, write real texts and make sure it gives a good impression of what you want to make.
+- Use a good tool to photograph your sketch and convert to a good quality picture to embed into your proposal. You can also split up your sketch in multiple parts that you separately embed.
 
 
 ## Prerequisites
