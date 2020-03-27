@@ -8,8 +8,6 @@ You'll kick off your project by handing in a proposal document. This document sh
 
 2. Click on the link that follows "Your assignment has been created here", which will direct you to the GitHub repository page for your project. It may take a few seconds for GitHub to finish creating your repository.
 
-3. In the upper-right corner of the repository page, click the "Fork" button, and then (if prompted) click on your username. This will create a fork of your project repository, a version of the repository that belongs to your GitHub account.
-
 Now, you should be looking at a GitHub repository titled `uva-webapps/project-username`, where `username` is your GitHub username. This will be the repository to which you will push all of your code while working on your project.
 
 Inside your new repository you will find a mostly empty file called `README.md`. Your should write your proposal in that file using the **Markdown** language ([read a brief intro](https://guides.github.com/features/mastering-markdown/)).
