@@ -20,11 +20,9 @@ A **general requirement** is that your web app may not be based on code you wrot
 
 ## Implementation details
 
-- Your web application must utilize at least two of Flask, Django, JavaScript, and SQL.
+- Your web application must utilize Flask, JavaScript, and SQL.
 
-- Your web application must be sufficiently complex, as determined by the course's instructor (not assistants).
-
-- Your web application must be mobile-responsive.
+- Your web application must be sufficiently complex, as determined by the course's instructor.
 
 - Your web application's source code must be managed using git and be pushed to GitHub daily.
 
