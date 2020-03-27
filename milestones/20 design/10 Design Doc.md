@@ -55,13 +55,13 @@ Some parts that you should describe here:
 
 <div class="row">
 <div class="col-xs-6 col-md-3">
-<a href="/course/milestones/proposal/screens-proposal.png" class="thumbnail">
+<a href="/course/milestones/20%20design/screens-proposal.png" class="thumbnail">
 ![](screens-proposal.png)
 Example sketch for a mobile app
 </a>
 </div>
 <div class="col-xs-6 col-md-3">
-<a href="/course/milestones/proposal/sketch.jpg" class="thumbnail">
+<a href="/course/milestones/20%20design/sketch.jpg" class="thumbnail">
 ![](sketch.jpg)
 Example sketch for a data visualization
 </a>
