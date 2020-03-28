@@ -1,5 +1,6 @@
 name: Web App Studio
 short_name: WebApps
+language: nl
 
 acknowledgements:
     - 'Based on CS50’s Web Programming with Python and JavaScript from Harvard University.'
