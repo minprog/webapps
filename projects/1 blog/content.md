@@ -119,7 +119,10 @@ Keep in mind the requirements when doing so, and refer back to the videos when n
 
 Now before continuing, bookmark your website's URL so you can refer to it while developing your Jekyll blog.
 
-Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory.
+Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory:
+
+	# creates a jekyll project in the 'current' directory
+	jekyll new .
 
 ## Requirements
 

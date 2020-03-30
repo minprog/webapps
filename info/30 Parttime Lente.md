@@ -17,7 +17,7 @@ Programmeren 1 en Programmeren 2 moet je helemaal gehaald hebben vóór je deze 
 
 Om de cursus tot een goed einde te brengen, verwachten we dat je:
 
-1. minimaal vijf goedwerkende websites volgens onze beschrijving implementeert en inlevert,
+1. minimaal vier goedwerkende websites volgens onze beschrijving implementeert en inlevert,
 1. de websites verbetert op basis van gevraagde en ongevraagde feedback,
 1. actief deelneemt aan de werkgroepen,
 1. regelmatig vragen stelt aan de assistenten en docenten, en
