@@ -123,7 +123,10 @@ Now before continuing, two things to do:
 
 - Below, submit the link to your https://github.com/uva-webapps/blog-username repository so we can track your progress!
 
-Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory.
+Then, have a look at the requirements below! You'll need to have a rough idea of what you're working towards. Then, start creating your Jekyll project inside your clone of the `uva-webprog/blog-username` directory:
+
+	# creates a jekyll project in the 'current' directory
+	jekyll new .
 
 ## Requirements
 
