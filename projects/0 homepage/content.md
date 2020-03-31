@@ -114,3 +114,7 @@ subject to the following requirements:
 
 Note that not all of the above requirements are covered in [Lecture 0](/lectures/git), some will
 be introduced in [Lecture 1](/lectures/html).
+
+## How to Submit
+
+You should have submitted your repository's URL while starting the project, in the "Starting the project" section, above!
