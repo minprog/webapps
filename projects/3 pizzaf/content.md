@@ -272,6 +272,6 @@ different types of toppings, or something else entirely!
 
 ## How to Submit
 
-1. Using Git, push your work to GitHub. Ask for help if needed!
-9. Submit the link to your project's GitHub repository below (the one with uva-webapps/pizzaf-username).
-10. On (or right after) the date of the deadline, show your working website to one of the staff.
+You should have submitted the link to your generated repository already when starting!
+
+Example: `https://github.com/uva-webapps/pizza-username`

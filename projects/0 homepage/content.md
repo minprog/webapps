@@ -118,3 +118,5 @@ be introduced in [Lecture 1](/lectures/html).
 ## How to Submit
 
 You should have submitted your repository's URL while starting the project, in the "Starting the project" section, above!
+
+Example: `https://github.com/uva-webapps/homepage-username`

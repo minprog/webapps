@@ -263,3 +263,5 @@ Make sure that you've set your `DATABASE_URL` environment variable before runnin
 ## How to Submit
 
 You should have submitted the link to your generated repository already when starting!
+
+Example: `https://github.com/uva-webapps/books-username`
