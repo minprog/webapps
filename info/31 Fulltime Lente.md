@@ -29,6 +29,19 @@ Om de cursus tot een goed einde te brengen, verwachten we dat je:
 1. actief deelneemt aan onderlinge code reviews.
 
 
+## Werkgroepen
+
+Werkgroepen zijn bijeenkomsten van zo'n 30--60 minuten met je mentor. In de werkgroepen krijg je de kans om samen de voortgang te bespreken, tips uit te wisselen over het aanpakken van problemen en om je medestudenten en mentor beter te leren kennen. Aanwezigheid is verplicht.
+
+| Werkgroep | Mentor  | 1e            | 2e              | Link                                         |
+| --------- | ------- | ------------- | --------------- | -------------------------------------------- |
+| A         | Lotte   | dinsdag 10:00 | vrijdag 10:00   | [Zoom](https://us04web.zoom.us/j/2966758396) |
+| B         | Sam     | dinsdag 10:00 | donderdag 10:00 | [Zoom](https://us04web.zoom.us/j/8823003923) |
+| C         | Quinten | dinsdag 10:00 | donderdag 10:00 | [Zoom](https://us04web.zoom.us/j/8941549653) |
+| D         | Emma    | maandag 10:00 | donderdag 10:00 | [Zoom](https://us04web.zoom.us/j/2322335446) |
+| E         | Marijn  | dinsdag 10:00 | donderdag 10:00 | [Zoom](https://zoom.us/j/2030811065)         |
+
+
 ## Eindcijfer
 
 Let op dat je minimaal aan bovenstaande verwachtingen moet voldoen om een eindcijfer te kunnen halen.
