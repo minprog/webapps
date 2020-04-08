@@ -136,7 +136,7 @@ to you, subject to the following requirements:
 * Your website's content (pages and posts) must be written in Markdown.
 * Your website must contain at least two different layouts, which must be written in HTML.
 * Your website's homepage's layout must include a list of the blog posts from the `_posts` directory.
-* Your website's layouts must be based on at least one "include" file.
+* Your website's layouts must be based on at least one "[include](https://jekyllrb.com/docs/includes/)" file.
 * Your website must have at least one stylesheet file.
 * Your stylesheet(s) must use at least five different CSS properties, and at
   least five different types of CSS selectors. You must use the `#id` selector
