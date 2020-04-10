@@ -67,7 +67,7 @@ projects:
         homepage: 1
         blog: 1
         books: 1
-        pizzaf: 1
+        pizza: 1
 
 final:
     show_progress: true
