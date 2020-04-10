@@ -55,9 +55,9 @@ grades:
         hide_calculated: true
 
 calculation:
-    eindcijfer:
-        projects: 1
-        final: 1
+    # eindcijfer:
+    #     projects: 1
+    #     final: 1
     apps:
         projects: 1
 
@@ -65,9 +65,9 @@ projects:
     show_progress: true
     submits:
         homepage: 1
+        blog: 1
         books: 1
-        flack: bonus
-        pizza: 1
+        pizzaf: 1
 
 final:
     show_progress: true
