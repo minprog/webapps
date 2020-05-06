@@ -16,7 +16,7 @@ Het eindproject wordt gedaan volgens een aantal *milestones*. Dit zijn momenten 
     9. [Maak een screencast van je product](/milestones/screencast)
     10. [Geef een eindpresentatie](/milestones/demo) (wordt verder uitgewerkt)
 
-> Please note: maak een afspraak met de **[projectbegeleiding](http://calendly.com/app-studio/assistentie-parttime)** na elke afronding van een milestone! Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden. Er is in principe dagelijks plek voor deze afspraken.
+> Please note: maak een afspraak met de **[projectbegeleiding](http://calendly.com/app-studio/assistentie-parttime)** voor elke milestone die je af hebt! Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden. Er is in principe dagelijks plek voor deze afspraken.
 
 ## Requirements
 
