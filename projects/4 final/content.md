@@ -2,16 +2,16 @@
 
 Het eindproject wordt gedaan volgens een aantal *milestones*. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen.
 
-- Voorbereidende milestones:
+- Voorbereidende milestones (20% van de tijd)
     1. [Lever een voorstel in](/milestones/proposal)
     2. [Lever een uitgewerkt ontwerp in](/milestones/design)
     3. [Maak je process book aan](/milestones/process)
     4. [Bouw een prototype](/milestones/prototype)
-- Ontwikkel-milestones:
+- Ontwikkel-milestones (60% van de tijd)
     5. [Lever je alpha-versie op](/milestones/alpha)
     6. [Lever je beta-versie op](/milestones/beta)
     7. [Lever je final-versie op](/milestones/product)
-- Afrondende milestones:
+- Afrondende milestones (20% van de tijd)
     8. [Verzorg een cleanup van je code en repo](/milestones/cleanup)
     9. [Maak een screencast van je product](/milestones/screencast)
     10. [Geef een eindpresentatie](/milestones/demo) (wordt verder uitgewerkt)
