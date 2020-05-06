@@ -38,20 +38,6 @@ A **general requirement** is that your web app may not be based on code you wrot
 
 - You must keep track of your code via git and push your code to GitHub at the end of each day.
 
-- You must keep a process book, as explained below.
+- You must keep a process book, as explained later.
 
 - Your web application must be shown running on the final day of the course.
-
-### Process book
-
-As soon as you finish your design and start coding, create a process book in which you keep track of your progress during the project. Note that it is not necessary to describe in detail what you have been working on every day. You do need to describe your **most important findings and challenges** during the project. At the end of the project this process book gives an insight in the progression of the project from beginning to end, and it will help you write your report.
-
-In your process book, you chronicle your big decisions. When faced with a decision during the day, document it like this:
-
-* The choice you've made
-* What you expect to happen as a result of that choice (at this moment in time)
-* Why you expect things to pan out that way
-
-By doing so, you can use your process book for reflection. By documenting and periodically reviewing your decisions, you'll get a better grasp on the overall project and you might be able to identify trends or common traps you find yourself falling into.
-
-To put it simply, a process book helps to refine your decision-making process as you move forward, rather than being something that helps you actually make a choice in the moment.
