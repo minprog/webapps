@@ -15,43 +15,21 @@ prevent you from finishing the project.
 
 > It is expected that you separate, in your code, handling of the user interface from data management and from complex algorithms whenever possible. It should be clear from your design document how you are going to do this!
 
-## Design doc for data visualizations
 
-For this deadline, you must prove that you have access to the data in a usable format!
+## Features
 
-Some parts that you should describe here:
+First list the features that users will be able to use:
 
-- a list of data sources if you will get data from an external source, including information on how your are going to filter and transform the data for your project
+- Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature. Yes, you will do a lot of sketching! This is required.
 
-- a diagram with an overview of the technical components of your app (visualizations, scraper etc etc)
-
-- as well as descriptions of each of the components and what you need to implement these
-
-- a list of APIs or D3 plugins that you will be using to provide
-  functionality in your app
+- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
 
 
-## Design doc for mobile apps
+## User interface
 
-Some parts that you should describe here:
+Draw a detailed walkthrough of the user interface of your app. You should draw multiple "screens" separately, in order to make very clear the things that happen on screen when navigating the app.
 
-- advanced sketches of your UI that clearly explain which features are
-  connected to which underlying part of the code (e.g. where the database is accessed and what for)
-
-    ![](screens.png)
-
-- a diagram of utility modules, classes and functions that you will need to
-  implement, in appropriate detail
-
-    ![](classes.png)
-
-- a list of APIs and frameworks or plugins that you will be using to provide
-  functionality in your app
-
-- a list of data sources if you will get data from an external source, including information on how your are going to filter and transform the data for your project
-
-- a list of database tables and fields (and their types) if you will use a database
-
+You must create "professional" drawings using a software tool. Some examples of what we expect:
 
 <div class="row">
 <div class="col-xs-6 col-md-3">
@@ -68,11 +46,7 @@ Example sketch for a data visualization
 </div>
 </div>
 
-- Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature. Yes, you will do a lot of sketching! This is required.
-
-- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
-
-## Tips for sketching
+Here are some tools you might use:
 
 - [Prototyping in Keynote](https://designcode.io/sketch-keynote). You can use Keynote on Mac, but you can also create a free account on [iCloud](https://www.icloud.com) and use it online. This allows you to make very interactive prototype without much effort.
 
@@ -83,9 +57,45 @@ Example sketch for a data visualization
 Do make sure that you use realistic content in your sketches! Google a few images, write real texts and make sure it gives a good impression of what you want to make.
 
 
+## Database
+
+Draw a diagram of your database tables and fields (and their types). You can use a UML-like drawing for this.
+
+- Do it like this: [Class diagrams](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml/4191743-learn-about-class-diagrams)
+- And this to show relations between tables: [Domain diagrams](https://openclassrooms.com/en/courses/4191736-design-a-database-with-uml/4191781-describe-a-society-with-domain-diagrams)
+- And where needed, have a look at the other pages from that course
+
+
+## Lists
+
+Include a couple of lists that are more detailed than in your proposal document:
+
+- a list of APIs and frameworks or plugins that you will be using to provide
+  functionality in your app (and explain exactly what features you're using them for)
+
+- a list of data sources if you will get data from an external source, including information on how your are going to filter and transform the data for your project, with examples of raw data and the actual data you need
+
 
 ## Repository
 
 Save your design document as **DESIGN.md** in the root of your GitHub
 repository. Don't forget to update your **README.md** if you have made any
 incompatible decisions, and push that file, too!
+
+
+## Submit
+
+<div class="form-check">
+  <input name="form[readme]" class="form-check-input" type="checkbox" value="yes" id="check1">
+  <label class="form-check-label" for="check1">
+    I pushed DESIGN.md to GitHub with all images and have checked that it looks good on GitHub
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="form[doc]" class="form-check-input" type="checkbox" value="yes" id="check2">
+  <label class="form-check-label" for="check2">
+    I will make an appointment to walk through my document before I start coding
+  </label>
+</div>
+
