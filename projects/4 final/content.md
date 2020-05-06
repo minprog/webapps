@@ -1,6 +1,10 @@
 # Project requirements
 
-Here we list the **requirements** that all submitted projects should accommodate. *Functional requirements* define the scope of the projects, and *implementation details* make sure all projects can be graded in the same way, while ensuring usefulness to a broad audience.
+Here we list the **requirements** that all submitted projects should accommodate.
+
+- *Functional requirements* define the scope of the project
+- *Implementation details* make sure all projects can be graded in the same way and ensure usefulness to a broad audience
+- *Process requirements* help us track your progress and help you to get a good grade
 
 A **general requirement** is that your web app may not be based on code you wrote earlier or be similar to the projects you did in this or other courses (it must be a new project) and that you cannot do a project for which the requirements will be set by a third party (the project must be done for this course and not for anyone else).
 
