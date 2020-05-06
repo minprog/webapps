@@ -42,7 +42,7 @@ A **general requirement** is that your web app may not be based on code you wrot
 
 - Your product's design should fit well in the platform you're using for layout, like Bootstrap.
 
-> Note: originality in this case doesn't mean that you must create a totally new idea that has never existed! Originality should likely come from restricting your idea to a specific target audience, to a specific data set, or in some other way. Actually, putting in restrictions can help you make your project fit in a few weeks and at the same time allow you to make it much better and more polished!
+Note: originality in this case doesn't mean that you must create a totally new idea that has never existed! Originality should likely come from restricting your idea to a specific target audience, to a specific data set, or in some other way. Actually, putting in restrictions can help you make your project fit in a few weeks and at the same time allow you to make it much better and more polished!
 
 ## Implementation details<br><small>How it must be implemented</small>
 
