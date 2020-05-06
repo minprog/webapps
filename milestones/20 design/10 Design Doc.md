@@ -22,7 +22,7 @@ First list the features that users will be able to use:
 
 - Include a brief list of **main features** that will be available to users. All features should also be visible in the sketch. If you have complicated features, it might be good to create a separate sketch for each feature. Yes, you will do a lot of sketching! This is required.
 
-- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement.
+- Mark which features define the *minimum viable product* (MVP) and which parts may be optional to implement. An MVP has a minimum amount of features, but is still a good product. This is the part that you have to agree on/negotiate with your teacher before starting to code!
 
 
 ## User interface
