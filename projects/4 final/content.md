@@ -1,5 +1,7 @@
 # Project requirements
 
+> Please note: maak een afspraak met de **[projectbegeleiding](http://calendly.com/app-studio/assistentie-parttime)** na elke afronding van een milestone! Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden. Er is in principe dagelijks plek voor deze afspraken.
+
 Here we list the **requirements** that all submitted projects should accommodate.
 
 - *Functional requirements* define the scope of the project
