@@ -93,49 +93,49 @@ Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where 
 Below, you submit your GitHub repo URL. In addition, make sure you check off these points:
 
 <div class="form-check">
-  <input name="form[readme]" class="form-check-input" type="checkbox" value="" id="check1">
+  <input name="form[readme]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
     My repository only contains a README.md document, no code
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[doc]" class="form-check-input" type="checkbox" value="" id="check2">
+  <input name="form[doc]" class="form-check-input" type="checkbox" value="yes" id="check2">
   <label class="form-check-label" for="check2">
     My repository contains the required pictures in a separate "doc" folder
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <input name="form[markdown]" class="form-check-input" type="checkbox" value="yes" id="check3">
   <label class="form-check-label" for="check3">
     README.md is written in good Markdown with headings, lists, pictures etc.
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[listofdatasources]" class="form-check-input" type="checkbox" value="" id="check4">
+  <input name="form[listofdatasources]" class="form-check-input" type="checkbox" value="yes" id="check4">
   <label class="form-check-label" for="check4">
     README.md contains links to data sources and concrete examples of the data that's needed
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[listofcomponents]" class="form-check-input" type="checkbox" value="" id="check5">
+  <input name="form[listofcomponents]" class="form-check-input" type="checkbox" value="yes" id="check5">
   <label class="form-check-label" for="check5">
     README.md contains a global list of needed components other than Flask, SQL and Javascript
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[listofotherapps]" class="form-check-input" type="checkbox" value="" id="check6">
+  <input name="form[listofotherapps]" class="form-check-input" type="checkbox" value="yes" id="check6">
   <label class="form-check-label" for="check6">
     README.md contains multiple examples of similar apps and describes what your app does differently
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[listofhardtofigureout]" class="form-check-input" type="checkbox" value="" id="check7">
+  <input name="form[listofhardtofigureout]" class="form-check-input" type="checkbox" value="yes" id="check7">
   <label class="form-check-label" for="check7">
     README.md contains a small list of things that you think will take most time to figure out/implement
   </label>
