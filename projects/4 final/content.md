@@ -1,6 +1,24 @@
-# Project requirements
+# Final Project
+
+Het eindproject wordt gedaan volgens een aantal *milestones*. Dit zijn momenten in het project waar we een expliciet contact inbouwen, zodat je feedback kunt krijgen.
+
+- Voorbereidende milestones:
+    1. [Lever een voorstel in](/milestones/proposal)
+    2. [Lever een uitgewerkt ontwerp in](/milestones/design)
+    3. [Maak je process book aan](/milestones/process)
+    4. [Bouw een prototype](/milestones/prototype)
+- Ontwikkel-milestones:
+    5. [Lever je alpha-versie op](/milestones/alpha)
+    6. [Lever je beta-versie op](/milestones/beta)
+    7. [Lever je final-versie op](/milestones/product)
+- Afrondende milestones:
+    8. [Verzorg een cleanup van je code en repo](/milestones/cleanup)
+    9. [Maak een screencast van je product](/milestones/screencast)
+    10. [Geef een eindpresentatie](/milestones/demo) (wordt verder uitgewerkt)
 
 > Please note: maak een afspraak met de **[projectbegeleiding](http://calendly.com/app-studio/assistentie-parttime)** na elke afronding van een milestone! Zeker de eerste milestones zijn cruciale momenten voor feedback en moeten afgetekend worden. Er is in principe dagelijks plek voor deze afspraken.
+
+## Requirements
 
 Here we list the **requirements** that all submitted projects should accommodate.
 
