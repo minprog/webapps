@@ -87,3 +87,57 @@ Don't commit any **code** yet, just your proposal. Your repository should be cle
 The next step in your project is creating a design document. There, you'll describe how your project will be created according to the rules of the application framework that you're using.
 
 Meanwhile, keep an eye on the **GitHub Issues** for your project. This is where you will get feedback on whether your project is accepted as it is described, or you need to make some changes.
+
+## Submit
+
+Below, you submit your GitHub repo URL. In addition, make sure you check off these points:
+
+<div class="form-check">
+  <input name="f[readme]" class="form-check-input" type="checkbox" value="" id="check1">
+  <label class="form-check-label" for="check1">
+    My repository only contains a README.md document, no code
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[doc]" class="form-check-input" type="checkbox" value="" id="check2">
+  <label class="form-check-label" for="check2">
+    My repository contains the required pictures in a separate "doc" folder
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <label class="form-check-label" for="check3">
+    README.md is written in good Markdown with headings, lists, pictures etc.
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <label class="form-check-label" for="check3">
+    README.md contains links to data sources and concrete examples of the data that's needed
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <label class="form-check-label" for="check3">
+    README.md contains a global list of needed components other than Flask, SQL and Javascript
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <label class="form-check-label" for="check3">
+    README.md contains multiple examples of similar apps and describes what your app does differently
+  </label>
+</div>
+
+<div class="form-check">
+  <input name="f[markdown]" class="form-check-input" type="checkbox" value="" id="check3">
+  <label class="form-check-label" for="check3">
+    README.md contains a small list of things that you think will take most time to figure out/implement
+  </label>
+</div>
+
