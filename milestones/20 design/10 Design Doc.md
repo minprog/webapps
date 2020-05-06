@@ -48,7 +48,7 @@ Example sketch for a data visualization
 
 Here are some tools you might use:
 
-- [Prototyping in Keynote](https://designcode.io/sketch-keynote). You can use Keynote on Mac, but you can also create a free account on [iCloud](https://www.icloud.com) and use it online. This allows you to make very interactive prototype without much effort.
+- [Prototyping in Keynote](https://designcode.io/sketch-keynote). You can use Keynote on Mac, but you can also create a free account on [iCloud](https://www.icloud.com) and use it online.
 
 - [Marvel](https://marvelapp.com) is a fairly advanced prototyping website. It may take more time to get used to.
 
@@ -86,14 +86,14 @@ incompatible decisions, and push that file, too!
 ## Submit
 
 <div class="form-check">
-  <input name="form[readme]" class="form-check-input" type="checkbox" value="yes" id="check1">
+  <input name="form[designdoc]" class="form-check-input" type="checkbox" value="yes" id="check1">
   <label class="form-check-label" for="check1">
     I pushed DESIGN.md to GitHub with all images and have checked that it looks good on GitHub
   </label>
 </div>
 
 <div class="form-check">
-  <input name="form[doc]" class="form-check-input" type="checkbox" value="yes" id="check2">
+  <input name="form[appointment]" class="form-check-input" type="checkbox" value="yes" id="check2">
   <label class="form-check-label" for="check2">
     I will make an appointment to walk through my document before I start coding
   </label>
