@@ -46,7 +46,7 @@ Voor het project zijn enkele milestones gedefiniëerd. Het is belangrijk deze bi
 
 Let op dat we vakantie hebben van 25 april t/m 5 mei - dit is meegenomen in de deadlines.
 
-In de **laatste weken** (vanaf 18 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
+In de **laatste week** (vanaf 18 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
 | Onderdeel        | Deadline              |  
 | ---------------- | --------------------- |
