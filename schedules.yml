@@ -194,24 +194,24 @@ Fulltime Lente:
         3. Maak je process book aan: /milestones/process
         4. Bouw een prototype: /milestones/prototype
 Project Lente:
-    Week 1:
-        Uitleg & eisen: /projects/final
-        Lever een compleet voorstel in: /milestones/proposal
-    Week 2:
-        Lever je design document in: /milestones/design
-        Lever je prototype in: /milestones/prototype
-    Week 3:
-        Bekijk College 9: /lectures/github
-    Week 4:
-        Bekijk College 10: /lectures/scalability
-        Lever je alfaversie in: /milestones/alpha
-    Week 5:
-        Bekijk College 11: /lectures/security
-    Week 6:
-        Lever je betaversie in: /milestones/beta
-    Week 7:
-        Lever je eindproduct in: TBA
-        Lever je screencast in: TBA
-    Week 8:
-        Lever je code reviews in: TBA
-        Registreer je voor de eindpresentaties: TBA
+    Project:
+        Alle informatie over het project: /projects/final
+    #     Lever een compleet voorstel in: /milestones/proposal
+    # Week 2:
+    #     Lever je design document in: /milestones/design
+    #     Lever je prototype in: /milestones/prototype
+    # Week 3:
+    #     Bekijk College 9: /lectures/github
+    # Week 4:
+    #     Bekijk College 10: /lectures/scalability
+    #     Lever je alfaversie in: /milestones/alpha
+    # Week 5:
+    #     Bekijk College 11: /lectures/security
+    # Week 6:
+    #     Lever je betaversie in: /milestones/beta
+    # Week 7:
+    #     Lever je eindproduct in: TBA
+    #     Lever je screencast in: TBA
+    # Week 8:
+    #     Lever je code reviews in: TBA
+    #     Registreer je voor de eindpresentaties: TBA
