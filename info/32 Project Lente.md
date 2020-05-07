@@ -48,12 +48,12 @@ Let op dat we vakantie hebben van 25 april t/m 5 mei - dit is meegenomen in de d
 
 In de **laatste weken** (vanaf 18 mei) ga je je eindproject afronden middels een aantal verschillende stappen. Deze deadlines kunnen niet verder worden opgerekt, ook niet in geval van ziekte of overmacht. Dit zodat het vak vóór juni helemaal afgerond is, inclusief eindbeoordeling.
 
-| Onderdeel        | Deadline                            |  
-| ---------------- | ----------------------------------- |
-| Final Product    | rond 18 mei (nader vast te stellen) |  
-| Code reviews     | NNB                                 |  
-| Screencast       | NNB                                 |  
-| Eindpresentaties | NNB                                 |  
+| Onderdeel        | Deadline              |  
+| ---------------- | --------------------- |
+| Final Product    | 18 mei                |  
+| Code reviews     | 19 mei                |  
+| Screencast       | 20 mei                |  
+| Eindpresentaties | geen eindpresentaties |  
 
 
 ## Becijfering van het eindproject
