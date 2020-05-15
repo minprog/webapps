@@ -3,7 +3,7 @@ templates:
         type: pass
         subgrades:
             besproken: boolean
-        calculation: checked.to_i
+        calculation: besproken.to_i
         hide_calculated: true
 
 grades:
