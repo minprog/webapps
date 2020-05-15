@@ -1,3 +1,11 @@
+templates:
+    1: &besproken
+        type: pass
+        subgrades:
+            besproken: boolean
+        calculation: checked.to_i
+        hide_calculated: true
+
 grades:
     homepage:
         type: float
@@ -53,6 +61,14 @@ grades:
             docs: integer
         calculation: ((code.to_i+repo.to_i+design.to_i+docs.to_i).to_f/20*9+1).round(1)
         hide_calculated: true
+    final_project: *besproken
+    final_design: *besproken
+    final_process: *besproken
+    final_alpha: *besproken
+    final_beta: *besproken
+    final_product: *besproken
+    final_screencast: *besproken
+    final_demo: *besproken
 
 calculation:
     # eindcijfer:
@@ -73,3 +89,10 @@ final:
     show_progress: true
     submits:
         final_project: 1
+        final_design: 1
+        final_process: 1
+        final_alpha: 1
+        final_beta: 1
+        final_product: 1
+        final_screencast: 1
+        final_demo: 1
