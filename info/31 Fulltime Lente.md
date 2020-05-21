@@ -125,6 +125,15 @@ Het cijfer voor dit project zal worden bepaald met behulp van de volgende criter
 
 > **Let op!** Het is jouw taak om in een file `ASSESSMENT.md` op bovenstaande punten aan te geven waar je extra aandacht aan hebt besteed en hoe je dat gedaan hebt. Dat betekent niet dat je helemaal geen aandacht hoeft te besteden aan punten die je niet noemt, maar het betekent wel dat we het zullen waarderen als je een duidelijke visie hebt op je uitwerking. Gezien het formaat van het project is het voor de beoordelaar niet mogelijk om jouw intenties te achterhalen als je ze niet vermeldt. Het project kan dus niet worden beoordeeld als dit korte verslag niet aanwezig is.
 
+Op elk van de criteria kun je 1 tot 5 punten verdienen:
+
+5. Uitstekend: vrijwel geen ruimte voor verbetering
+4. Zeer goed: aantal kleine dingen te verbeteren
+3. Goed: nog belangrijke dingen te verbeteren
+2. Redelijk: nog erg veel ruimte voor verbetering
+1. Niet goed
+{: start="5" reversed="reversed"}
+
 
 ## Samenwerken
 

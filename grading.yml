@@ -86,6 +86,8 @@ projects:
         books: 1
         pizza: 1
 
+# TODO website doesn't show progress for final project steps
+
 final:
     show_progress: true
     minimum: 5.5
