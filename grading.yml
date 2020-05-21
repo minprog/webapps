@@ -52,15 +52,6 @@ grades:
             points: integer
         calculation: (done == -1 && repo_ok == -1) && (points.present? && (points.to_i.to_f/6*9+1).round(1) || -1) || 0
         hide_calculated: true
-    final_project:
-        type: float
-        subgrades:
-            code: integer
-            repo: integer
-            design: integer
-            docs: integer
-        calculation: ((code.to_i+repo.to_i+design.to_i+docs.to_i).to_f/20*9+1).round(1)
-        hide_calculated: true
     final_project: *besproken
     final_design: *besproken
     final_process: *besproken
@@ -69,6 +60,15 @@ grades:
     final_product: *besproken
     final_screencast: *besproken
     final_demo: *besproken
+    final_project_grade:
+        type: float
+        subgrades:
+            code: integer
+            repo: integer
+            design: integer
+            docs: integer
+        calculation: ((code.to_i+repo.to_i+design.to_i+docs.to_i).to_f/20*9+1).round(1)
+        hide_calculated: true
 
 calculation:
     eindcijfer:
@@ -79,6 +79,7 @@ calculation:
 
 projects:
     show_progress: true
+    minimum: 5.5
     submits:
         homepage: 1
         blog: 1
@@ -87,12 +88,14 @@ projects:
 
 final:
     show_progress: true
+    minimum: 5.5
     submits:
-        final_project: 1
-        final_design: 1
-        final_process: 1
-        final_alpha: 1
-        final_beta: 1
-        final_product: 1
-        final_screencast: 1
-        final_demo: 1
+        final_project: 0
+        final_design: 0
+        final_process: 0
+        final_alpha: 0
+        final_beta: 0
+        final_product: 0
+        final_screencast: 0
+        final_demo: 0
+        final_project_grade: 1
