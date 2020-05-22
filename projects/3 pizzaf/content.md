@@ -113,11 +113,11 @@ the link provided in the Heroku credentials list.
 
 - You may optionally want to set the environment variable `FLASK_DEBUG` to `1`, which will activate Flask's debugger and will automatically reload your web application whenever you save a change to a file.
 
-- Set the environment variable `DATABASE_URL` to be the URI of your database, which you should be able to see from the credentials page on Heroku.
+- Set the environment variable `DATABASE_URL` to be the URI of your database (use `export DATABASE_URL= ...` and enter your URI), which you should be able to see from the credentials page on Heroku.
 
 - Run `flask run` to start up your Flask application.
 
-- If you navigate to the URL provided by `flask`, you should see the text `"Pinocchio's: TODO"`!
+- If you navigate to the URL provided by `flask` and follow the steps below, you should see the text `"Pinocchio's: TODO"`!
 
 
 ### Your first migration
@@ -140,7 +140,7 @@ the link provided in the Heroku credentials list.
 
         $ flask db upgrade
 
-- However, you have no good way to inspect or change the data in the database yet. The next section will help you out there.
+- However, you have no good way to inspect or change the data in the database yet. The next section 'integrating the admin' will help you out there.
 
 - One thing to pay attention to, is that generating migrations often works very well, but some changes can't be derived automatically. For example, if you decide to rename your `users` table to `userinfo`, then run `flask db migrate`, you will find that the migration first deletes (all data in the) users table and then create a new table called `userinfo`. But it isn't necessary to delete the table in that case! SQL (and SQLAlchemy) have methods to rename tables. You can change the migration to replace the remove/add combo by a rename command. See the [Alembic operations reference](https://alembic.sqlalchemy.org/en/latest/ops.html) for more information.
 
@@ -172,6 +172,14 @@ Flask comes with many optional plugins. One of those is `flask-admin`, which gen
         admin.add_view(ModelView(User, db.session))
 
     You can later add additional calls to `add_view` to link more models to your admin interface.
+
+- To view your admin page, you will have to run your application with:
+
+        flask run
+
+    Then type `/admin` at the end of your URL:
+
+        http://localhost:5000/admin/
 
 
 ## Requirements
