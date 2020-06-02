@@ -76,6 +76,8 @@ calculation:
         final: 1
     apps:
         projects: 1
+    progproject:
+        final: 1
 
 projects:
     show_progress: true
