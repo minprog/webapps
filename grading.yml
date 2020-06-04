@@ -94,12 +94,12 @@ final:
     show_progress: true
     minimum: 5.5
     submits:
-        final_project: 0
-        final_design: 0
-        final_process: 0
-        final_alpha: 0
-        final_beta: 0
-        final_product: 0
-        final_screencast: 0
-        final_demo: 0
+        # final_project: 0
+        # final_design: 0
+        # final_process: 0
+        # final_alpha: 0
+        # final_beta: 0
+        # final_product: 0
+        # final_screencast: 0
+        # final_demo: 0
         final_project_grade: 1
